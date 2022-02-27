@@ -1,0 +1,1253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riddles mervels and rarities: or, A new way of health, from an old man's experience, &amp;c. Being his kind legacy, to his fellow creatures: or, the physician, and no physician, prescribing physick, and no physick; shewing plain, easie, and cheap ways, how every man may become his own physician, his own apothecary, and his own chyrurgeon, with little or no trouble, but far less cost. Whereby sickness may certainly be prevented to the well; health, as certainly procur'd to the sick; and man's life comfortably preserv'd, to a good old age.... Divided into 2 parts, by two universal medicines; the one physical, the other natural; the first the worst, the second the best. Also a short discourse concerning the phylosopher's stone, ... With several other choice observations of profitable use, as may be seen in the table here annext.</title>
+            <author>Mace, Thomas, d. 1709?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88936</idno>
+            <idno type="STC">Wing M121A</idno>
+            <idno type="STC">ESTC R229881</idno>
+            <idno type="EEBO-CITATION">99899380</idno>
+            <idno type="PROQUEST">99899380</idno>
+            <idno type="VID">153249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2356:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Riddles mervels and rarities: or, A new way of health, from an old man's experience, &amp;c. Being his kind legacy, to his fellow creatures: or, the physician, and no physician, prescribing physick, and no physick; shewing plain, easie, and cheap ways, how every man may become his own physician, his own apothecary, and his own chyrurgeon, with little or no trouble, but far less cost. Whereby sickness may certainly be prevented to the well; health, as certainly procur'd to the sick; and man's life comfortably preserv'd, to a good old age.... Divided into 2 parts, by two universal medicines; the one physical, the other natural; the first the worst, the second the best. Also a short discourse concerning the phylosopher's stone, ... With several other choice observations of profitable use, as may be seen in the table here annext.</title>
+                  <author>Mace, Thomas, d. 1709?</author>
+               </titleStmt>
+               <extent>[4], 27, [3] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, Tho. Mace, of Trin. Coll. in Cambridge, Clark, at his house in St. Peter's Parish in Cambridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With advertisement below imprint on title page.</note>
+                  <note>With "A musical canon, of 4 parts in one" on leaf E2v.</note>
+                  <note>With final advertisement leaf.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Health --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Diseases --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153249:1"/>
+            <pb facs="tcp:153249:1"/>
+            <pb facs="tcp:153249:2"/>
+            <pb facs="tcp:153249:2" rendition="simple:additions"/>
+            <p>Riddles Mervels and Rarities: OR, A <hi>New way of Health,</hi> FROM AN Old Man's Experience, <hi>&amp;c.</hi> BEING <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind <hi>Legacy,</hi> to his <hi>Fellow Creatures:</hi> OR, The PHYSICIAN, and no PHYSICIAN, Preſcrib<g ref="char:EOLhyphen"/>ing PHYSICK, and no PHYSICK; SHEWING</p>
+            <p>
+               <hi>Plain, Eaſie,</hi> and <hi>Cheap Ways,</hi> how every Man may become <hi>His own PHYSICIAN, his own APOTHECARY,</hi> and <hi>his own CHYRURGEON,</hi> with little or no trouble, but far <hi>leſs Coſt.</hi>
+            </p>
+            <p>Whereby <hi>Sickneſs,</hi> may certainly be <hi>Pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ented</hi> to the <hi>Well; Health,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s certainly <hi>Procur'd</hi> to the <hi>Sick;</hi> and <hi>Man's Life comfortably preſerv'd to a good</hi> Old <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge.</p>
+            <p>
+               <hi>All <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> by the Author's laſt <hi>Thirty Years Experience,</hi> upon himſelf <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) he being now (1698.) in the Eighty Six Year of his Age, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>Lively, Active</hi> and <hi>Brisk.</hi> Gloria Deo.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by two Univerſal Medicines; the one Phyſical, the other Natural; the firſt the Worſt, the ſecond the Beſt.</p>
+            <p>ALSO <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> concerning the PHYLOSOPHER'S STONE, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> been long ſaid, to turn all things, (or Mettals) into Gold; ſhew<g ref="char:EOLhyphen"/>ing what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be the meaning of <hi>That Strange Saying,</hi> for we can ſee <hi>No <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch Thing.</hi>
+            </p>
+            <p>But that there is a Stone (of late Years) diſcover'd, that has as Eminent <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is ſaid to have, is moſt certain; if happily, it prove not to be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, as here ſhall be made Plain.</p>
+            <p>With ſeveral <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Choice Obſervations of Profitable Uſe, as may be ſeen in the Table here <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnext.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mace,</hi> of <hi>Trin. Coll.</hi> in <hi>Cambridge,</hi> Clark, at his Houſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pariſh in <hi>Cambridge,</hi> Anno Dom. 1698.</p>
+            <p>Where this Rare <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at the Preſent to be had and may eaſily be con<g ref="char:EOLhyphen"/>veyed to any Part of <hi>England,,</hi> 5 or 6 times a Week by <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iers from thence to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ondon,</hi> and ſo to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Nation. Price 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:153249:3"/>
+            <pb facs="tcp:153249:3"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>THE Seeming Riddle of the Title Explained.</item>
+               <item>A Pertinent Queſtion Put in That Explanation, well worth a Wiſe Man's Regard, <hi>Page 1</hi>
+               </item>
+               <item>The Second Riddle Unfolded. <hi>Page 2</hi>
+               </item>
+               <item>The Third Riddle. <hi>Page ibid.</hi>
+               </item>
+               <item>Explain'd in 5 Particulars. <hi>Page ib.</hi>
+               </item>
+               <item>The Phyſician and Apothecary made. <hi>Page ib.</hi>
+               </item>
+               <item>The Chyrurgion made. <hi>Page 3</hi>
+               </item>
+               <item>The Quacks and Mountebancks Undone. <hi>Page ib.</hi>
+               </item>
+               <item>The little Trouble. <hi>Page ib.</hi>
+               </item>
+               <item>The leſs Coſt. <hi>Page 4</hi>
+               </item>
+               <item>The Reaſon why it is the Cheap<g ref="char:EOLhyphen"/>eſt Thing in the World. <hi>Page ib.</hi>
+               </item>
+               <item>How it comes to be Perpetual. <hi>Page ib.</hi>
+               </item>
+               <item>The Author's Intent by this Work <hi>Page 5</hi>
+               </item>
+               <item>When Phyſick ſhould be Taken and when Not. <hi>Page ib.</hi>
+               </item>
+               <item>This Phyſick has No Body. <hi>Page ib.</hi>
+               </item>
+               <item>To whom Only 'tis to be Given. <hi>Page ib.</hi>
+               </item>
+               <item>Concerning the Philoſop. Stone. <hi>Page 6.</hi>
+               </item>
+               <item>The Reaſon of this Powder's Name. <hi>Page 7.</hi>
+               </item>
+               <item>The Univerſal Phyſical Medi<g ref="char:EOLhyphen"/>cine. <hi>Page ib.</hi>
+               </item>
+               <item>Its Chyrurgical Virtues. <hi>Page 8</hi>
+               </item>
+               <item>Here follow <hi>8</hi> Strange Storíes.</item>
+               <item>
+                  <hi>Firſt,</hi> Of the Plague. <hi>Page ib.</hi>
+               </item>
+               <item>
+                  <hi>Second,</hi> Of the Leproſie. <hi>Page 11.</hi>
+               </item>
+               <item>
+                  <hi>Third,</hi> Of the Yellow Jaundice, Obſtructions and Monthly Vi<g ref="char:EOLhyphen"/>ſits. <hi>Page ib.</hi>
+               </item>
+               <item>
+                  <hi>Forth,</hi> A Girle brought to Life after that ſhe was laíd out to be Stript. <hi>Page 12</hi>
+               </item>
+               <item>
+                  <hi>Fifth,</hi> A Deep Conſumption cur'd by twice Taking. <hi>Page 13</hi>
+               </item>
+               <item>
+                  <hi>Sixth,</hi> A Soar Breaſt. <hi>Page ib.</hi>
+               </item>
+               <item>
+                  <hi>Seventh,</hi> Madneſs Cur'd, very Remarkable. <hi>Page 14</hi>
+               </item>
+               <item>
+                  <hi>Eight,</hi> The High French Pox Cur'd. <hi>Page ib.</hi>
+               </item>
+               <item>A ſingular Quality in This Me<g ref="char:EOLhyphen"/>dicine. <hi>Page 15</hi>
+               </item>
+               <item>The Second Univerſal Medicine, is no Phyſical Medicine: <hi>Page 16</hi>
+               </item>
+               <item>It may well be Judged One of God's Predeſtinate Purpoſes. <hi>Page ib.</hi>
+               </item>
+               <item>What may be Underſtood by the Word Nature. <hi>Page ib.</hi>
+               </item>
+               <item>What is Nature. <hi>Page 17</hi>
+               </item>
+               <item>The very Place where the Beſt U<g ref="char:EOLhyphen"/>niverſal Medicine is to be had. <hi>Page ib.</hi>
+               </item>
+               <item>Its Name and Excellency. <hi>Page ib.</hi>
+               </item>
+               <item>Its Deſcription and Uſe. <hi>Page 18</hi>
+               </item>
+               <item>Three particular Things belonging to it. <hi>Page ib.</hi>
+               </item>
+               <item>Who are moſt ſubject to Infections Diſeaſes and ſhort Life. <hi>Page 19</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:153249:4"/>The many Benefits that will ariſe by the <hi>Engliſh</hi> Proteſtant-Prieſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Powder to the whole Na<g ref="char:EOLhyphen"/>tion. <hi>Page 20</hi>
+               </item>
+               <item>Concerning Aſtrology and its Ex<g ref="char:EOLhyphen"/>cellent Uſe. <hi>Page ib.</hi>
+               </item>
+               <item>An Eminent Aſtrolog. Story. <hi>Page 21</hi>
+               </item>
+               <item>Some Eaſie Aſtrological Rules needful to be Obſerv'd in taking Phyſick. <hi>Page 22</hi>
+               </item>
+               <item>The Deſcription of the Planets. <hi>Page ib.</hi>
+               </item>
+               <item>How to find a Planetary Heur and its length Day or Night. <hi>Page 23</hi>
+               </item>
+               <item>A more Eaſie ſhort way, <hi>&amp;c. Page 24</hi>
+               </item>
+               <item>The Great Affinity, betwtxt Mu<g ref="char:EOLhyphen"/>ſick and Phyſick made Plain. <hi>Page 26</hi>
+               </item>
+               <item>How in ſeveral Particulars, Mu<g ref="char:EOLhyphen"/>ſick and Phyſick agree. <hi>Page 27</hi>
+               </item>
+               <item>A Canon of four Parts in One. <hi>Page 28</hi>
+               </item>
+            </list>
+         </div>
+         <div type="note">
+            <head>ADVERTISEMENT.</head>
+            <p>TO Prevent all <hi>Frauds,</hi> know, That <hi>This Rare Power,</hi> known by the Name of the <hi>Engliſh PRIEST'S-POWDER,</hi> is to be had No where but at <hi>Theſe few Places</hi> Following, <hi>viz.</hi> By the Author (<hi>Tho<g ref="char:EOLhyphen"/>mas Mace</hi>) at his <hi>Houſe</hi> in St. <hi>Peter</hi>'s Pariſh in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> near the <hi>Caſtle;</hi> And at Mr. <hi>Daniel Peachcy</hi>'s in St. <hi>Buttolphs</hi> Pariſh there: And in <hi>London,</hi> by Mr. <hi>Adam Maſon</hi> at his <hi>Houſe</hi> in <hi>Old Bedlam</hi> near <hi>Biſhops<g ref="char:EOLhyphen"/>gate;</hi> And by Mr. <hi>William Pearſon,</hi> Printer, at the third Door in <hi>Hare Court</hi> in <hi>Alderſgate-ſtreet</hi> near the Meet<g ref="char:EOLhyphen"/>ing Houſe; And by Mr. <hi>John Vaughan,</hi> Milliner, at his Houſe in <hi>Grivil-ſtreet</hi> near <hi>Hatton Garden;</hi> and by Mr. <hi>Will. Benſon</hi> in the <hi>Old Baily;</hi>
+            </p>
+            <p>
+               <hi>Note, The Powder</hi> is Sealed up in <hi>Quarter Ounce Papers</hi> with Directions to go along with It when 'tis ſold, with the Author's Own Coat of Arms, <hi>viz. An Arm'd Hand holding a Scepter, and</hi> 2 <hi>Spur-Rowls at the Top.</hi> The Price of the Powder is 10
+s. the Ounce, and is Sealed up, <hi>&amp;c.</hi> as before.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153249:4"/>
+            <div type="part">
+               <head>THE EXPLANATION OF The Title Page.</head>
+               <p>BEcauſe the <hi>Title <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> begins more like a <hi>Riddle,</hi> than in the common <hi>way of a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>;</hi> it may be expected it ſhould be Ex<g ref="char:EOLhyphen"/>plained: therefore thus. As to the <hi>Firſt Clauſe of it, Viz,</hi>
+                  <note place="margin">The firſt Clauſe of the Title page Explain'd.</note> The Phyſician, and no Phyſician; I do freely acknowledge I am no phyſician, either by Education, Gradation, Licence, Intent or Practice. Yet I thank God, I was not <hi>The Fool at</hi> 40 according to that old <hi>Engliſh</hi> Proverb, which runs thus, <hi>Viz. Every Man is either a Fool</hi> or <hi>a Phyſician for himſelf, at</hi> 40 <hi>Year<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge.</hi> That is as much as to ſay, He that has liv'd to 40 Years and has not taken ſo much Notice of <hi>His own Conſtitution &amp;c.</hi> as to know what is <hi>Good</hi> or <hi>Bad</hi> for <hi>His Healthfull Well being &amp;c.</hi> may juſtly be <hi>call'd the Fool;</hi> But otherwiſe <hi>The Phyſician.</hi> I ſay I was <hi>not Then the Fool,</hi> for I had by <hi>That Time Obſerv'd</hi> what was Beneficial for my own Health, <hi>&amp;c.</hi> So that if the Proverb be true you muſt acknow<g ref="char:EOLhyphen"/>ledge, that I was then a Phyſician Tho' but for my ſelf, and what was <hi>found Good for my ſelf</hi> muſt needs be <hi>Good for Thouſands beſides.</hi> Well then Grant me but That, and that's Enough to make Good, the firſt Clauſe of my Title Page, <hi>Viz,</hi> the Phyſician and No Phyſician.</p>
+               <p>And now, ſince I am upon this Theme, I will take the Liberty, to ask This one Queſtion, <hi>Viz:</hi> Whether it be not poſible,
+<note place="margin">A Pertinent Queſtion.</note> for a Man that has liv'd to 40, 50. 60, 70, or 80 years Old (as I have now done) may not He (I ſay) be as <hi>Good a Phyſician</hi> (having <hi>Studied Himſelf</hi> and <hi>Nature</hi> (It may be) 30, 40, or 50 of Thoſe 80 years) as a <hi>young Stripling,</hi> who has been but five years at the Univerſity, and has got a Batchellor of Phy<g ref="char:EOLhyphen"/>ſick's Degree upon his Back; by Reading a few Books (perchance but a year or two neither of thoſe Five, <hi>before he got his D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gree.</hi>) Now I ſay <hi>This young Man muſt not be deny'd to be a Phyſician,</hi> how <hi>little Experience ſoever He's Furniſh'd withall</hi> Either of <hi>His own,</hi> or of <hi>other Men's Con<g ref="char:EOLhyphen"/>ſtitutions, or Complexions;</hi> neither can he be <hi>Queſtioned</hi> (by the <hi>Law</hi>) if he chance to give <hi>ſuch Phyſick as Kills any Man</hi> he takes in hand to Cure.</p>
+               <p>Without doubt, <hi>Experience</hi> is a moſt <hi>neceſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry Thing for a Phyſician.</hi> But this only <hi>by the Bye,</hi> and by way of <hi>Preparation,</hi> (as a <hi>Bruſh</hi> or <hi>Whisk,</hi>
+                  <pb n="2" facs="tcp:153249:5"/>to <hi>Clear off ſome duſt</hi> and that (no doubt) will be <hi>Blown or caſt upon this my Attempt,</hi> by ſome <hi>Envious Breaths or other;</hi> who uſually are <hi>diſpleas'd,</hi> at any <hi>ſtoneſt or Laudable undertaking,</hi> that may ſeem to <hi>Reflect upon Them;</hi> Tho' I do it not for any ſuch end (God knows.)</p>
+               <p>And now to the 2 Riddle which is <hi>Preſcribing Phyſick and no Phyſick.</hi>
+                  <note place="margin">
+                     <hi>The</hi> 2d. <hi>Riddle <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ded.</hi>
+                  </note>
+               </p>
+               <p>This muſt needs ſeem as <hi>Strange</hi> as the <hi>Firſt.</hi> However it ſhall be as <hi>Eaſily</hi> made <hi>Plain</hi> as the <hi>Firſt, Viz,</hi> Thus; You muſt know, that <hi>this Rare Thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g</hi> that I Thus <hi>Commend</hi> unto the World; for <hi>an <g ref="char:V">Ʋ</g>niverſall-Phyſical-Me<g ref="char:EOLhyphen"/>dicine,</hi> for all ſorts of <hi>Conſtitutions,</hi> and all ſorts of <hi>Maladies, Sickneſſes,</hi> and <hi>Diſeaſes,</hi> is a <hi>Chymical Prepar'd Powder</hi> which for ſome late years paſt I have Publiſh'd in the Name of the <hi>Engliſh</hi> PRIE<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>T'S POWDER, and which it ſelf is <hi>never to be Taken,</hi> either <hi>Inwardly (as Phyſick)</hi> nor <hi>Ap<g ref="char:EOLhyphen"/>plyed Outwardly to any Wound, Sore Scab, Bruiſe, Swelling, Pains, Aches, Head-Ach Rheumetick-Sore-Eyes, &amp;c.</hi> All which, and many more, tis moſt <hi>Ad<g ref="char:EOLhyphen"/>mirably good for.</hi>) I ſay, it is never (it ſelf) to be us'd or Apply'd (as Me<g ref="char:EOLhyphen"/>dicine) But (only) a <hi>ly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cture,</hi> which <hi>It ſends forth,</hi> into ſome <hi>Certain Li<g ref="char:EOLhyphen"/>quors;</hi>
+                  <note place="margin">
+                     <hi>The</hi> 2d. <hi>Clauſe of the litle page Explain'd.</hi>
+                  </note> into <hi>which</hi> it is to be <hi>Infus'd,</hi> for <hi>ſome certain Hours:</hi> And <hi>Thoſe Li<g ref="char:EOLhyphen"/>quors, (Retaining its Virtue) are only to be us'd;</hi> And (<hi>as Phyſick</hi>) are to be taken, <hi>into the Body,</hi> in the way of <hi>Potion;</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther for <hi>Vomit, Purge, Gliſter,</hi> or <hi>Sweat;</hi> But in the way of <hi>Chirurgery,</hi> are only <hi>Outwardly Applyed,</hi> by <hi>Waſhings</hi> or <hi>Bathings</hi> &amp;c.</p>
+               <p>So,
+<note place="margin">☞</note> that the <hi>Powder</hi> (which is <hi>Really</hi> and <hi>Virtually</hi>) the <hi>Phyſick) muſt never be taken,</hi> or us'd, but ſtill carefully kept, in Some <hi>Glaſs-Bottle,</hi> to infuſe a <hi>New ſupply of liquor,</hi> in the room of what may be taken off it for ſome preſent uſe at any time.</p>
+               <p>So that (here you may Eaſily perceive, the <hi>Riddle un<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ded,</hi> in that you <hi>never take the Body of any Phyſick or Potion,</hi> as is generally done from the <hi>A<g ref="char:EOLhyphen"/>pothecaries-Shops</hi> by <hi>Phyſicians Directions.</hi>
+               </p>
+               <p>I need ſay no more (I ſuppoſe to Explain theſe two firſt <hi>Riddles.</hi> Therefore I proceed to the next. <hi>Viz,</hi>
+               </p>
+               <p>
+                  <hi>Every man his Own Phyſician, Apothecary; Chyrurgion</hi> with <hi>Little Coſt,</hi> and <hi>far leſs Trouble.</hi>
+               </p>
+               <p>Here are no leſs than Five <hi>Things Particularly to be conſider'd,</hi>
+                  <note place="margin">
+                     <hi>The</hi> 3d. <hi>Riddle Explained in</hi> 5 <hi>particulars.</hi>
+                  </note> All which ſeem (at the firſt view a <hi>Confounded Piece of Impoſſibility;</hi> but, (as the two former) you ſhall find them very eaſie to be underſtood. As Thus, Firſt as to the <hi>Phyſician,</hi> you are only to get the <hi>Book</hi> of <hi>Directions</hi> (which is but very <hi>Short</hi> and <hi>Plain,</hi>
+                  <note place="margin">Firſt, the Phy<g ref="char:EOLhyphen"/>fician is Made.</note> and to be underſtood (almoſt) by any one, except (only) an Idiot or Fool. So that upon whatſoever <hi>Occaſion</hi> you are to uſe your Phyſick, (or rather Tyncture) it is but <hi>Turning</hi> to <hi>That Place</hi> (in the <hi>Book</hi> which concerns your particular <hi>Buſineſs;</hi> and There you ſhall have <hi>Exact Directions</hi> what you are to do and how; as well as if you had <hi>Studied five years in the <g ref="char:V">Ʋ</g>niverſity,</hi> and obtain'd a <hi>Batchellor of Phyſicks Degree,</hi> &amp;c.</p>
+               <p>There's one of the five difficulties eaſily made Eaſie.</p>
+               <p>The Second is <hi>the Apothecary.</hi>
+                  <note place="margin">Secondly, the Apothecary is Made.</note> Now as to That; moſt People know that the <hi>Skill,</hi> the <hi>Work</hi> and <hi>Labour</hi> of an <hi>Apothecary</hi> is to <hi>Procure Simples</hi> and of <hi>ſeveral ſorts and Kinds;</hi> and to <hi>Prepare, Order, Mix, Belabour, Com<g ref="char:EOLhyphen"/>pound,</hi> and Work them all up into <hi>Divers Forms</hi> and <hi>Ways,</hi> with a <hi>Vaſt Deal</hi> of continual <hi>Care</hi> and <hi>Trouble</hi> (beſides the <hi>Coſt.</hi>)</p>
+               <p>
+                  <pb n="3" facs="tcp:153249:5"/>But now, whereas <hi>This High Virtue</hi> carrying in it ſuch a <hi>Powerfull Pre<g ref="char:EOLhyphen"/>dominarcy</hi> over <hi>All</hi> the <hi>Enemies</hi> of <hi>Mans-Nature,</hi> whereby it does Cleerly <hi>Expell</hi> and <hi>Drive forth</hi> the <hi>very Root</hi> of <hi>any Diſeuſe</hi> (curable) if it be <hi>Taken</hi> in <hi>Time</hi>) there needs no more to be done, than to <hi>Furniſh</hi> your ſelf with a <hi>Competent Store</hi> of <hi>This Wonderfull Thing.</hi> And put it into <hi>Preparation,</hi> ac<g ref="char:EOLhyphen"/>cording to the <hi>Exact Directiors</hi> of the aforeſaid <hi>book;</hi> which (having already (as we will ſuppoſe) made you a <hi>Phyſician</hi>) you have <hi>Nothing</hi> more to <hi>Provide for,</hi> or to do, than what you will find <hi>Therein Exactly ſet down,</hi> and now you are an <hi>Apothecary</hi> alſo.</p>
+               <p>So that now, you may conclude your ſelf, both <hi>Phyſician</hi> and <hi>Apothecary,</hi> and ſufficiently become <hi>Skilfull</hi> in both, for Moſt Diſeaſes.</p>
+               <p>It now only remains that you have ſufficient Skill in the common <hi>Art</hi> of <hi>Chyrurgeny</hi> (for I pretend no further) which already,
+<note place="margin">Third, the Chy<g ref="char:EOLhyphen"/>rurgeon Made.</note> is (upon the matter done;) Suppoſing you are <hi>Phyſician</hi> and <hi>Apothecary;</hi> for you have <hi>Nothing</hi> more to do, than ſtill to apply your ſelf, to <hi>Thoſe Plain Directions</hi> in your <hi>Book.</hi> Making uſe of the very <hi>ſame Virtue</hi> which does <hi>All things</hi> as well in common <hi>Chyrurgery</hi> as in <hi>Phyſick;</hi> (excepting only <hi>Fractions, Diſlocations, Cuttings off</hi> of <hi>Arms, Legs, and ſuch like;</hi> yet it ſhall <hi>Heal</hi> any of <hi>Thoſe Grie<g ref="char:EOLhyphen"/>vances,</hi> as well as moſt things that are uſually applyed upon <hi>Thoſe occaſions.</hi> So that now, you (being thus <hi>Accompliſh'd</hi>) may ſay, <hi>Tria ſunt Omnia,</hi> you having <hi>All</hi> the <hi>Three Properties</hi> of <hi>a compleat Phyſician.</hi>
+               </p>
+               <p>And no doubt (if you would take up the Humour to be a <hi>Mountebark</hi>) you would (by way of Figure) be ſaid to put them all <hi>into your Pocket;</hi>
+                  <note place="margin">The Quacks and Mountebanks undone.</note> That is, <hi>You'd ſpoil their Trade.</hi> Quſ. Why? Anſ. Becauſe, admi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting <hi>their Medicines</hi> to be never <hi>ſo Good,</hi> yet when they are <hi>Once taken, they ceaſe to be;</hi> They are <hi>gone,</hi> and you muſt be at a <hi>New-Charge</hi> for <hi>more continually,</hi> as you have <hi>oc<g ref="char:EOLhyphen"/>caſion;</hi> whereas <hi>This,</hi> (after 'tis <hi>Purchas'd</hi>) ſhall do you <hi>Ten thouſand Services,</hi> (never <hi>Loſing</hi> its <hi>Virtues</hi>) to the <hi>End</hi> of your <hi>Days;</hi> as ſhall be made good by what follows in the next two <hi>Particulars</hi> to be <hi>Explained.</hi> And thus I have made Plain <hi>theſe three firſt Difficulties;</hi> there needs not much to be ſaid to Explain the other two. <hi>Viz,</hi> with <hi>Little Trouble</hi> but <hi>far leſs Coſt.</hi> Theſe two laſt, being <hi>Included,</hi> in the <hi>three former.</hi>
+               </p>
+               <p>Firſt to the <hi>Trouble,</hi>
+                  <note place="margin">Fourth, the lit<g ref="char:EOLhyphen"/>tle Trouble.</note> you having but once <hi>Purchas'd</hi> your intended <hi>Quan<g ref="char:EOLhyphen"/>tum, Stock</hi> or <hi>Store,</hi> of the Forementioned <hi>Chymical-Powder,</hi> you need but put it into a <hi>Srong-Bottle-Glaſs;</hi> And put to it ſuch a <hi>Quantity</hi> of ſuch <hi>Liquor,</hi> as you are <hi>Directed</hi> unto in your <hi>Book of Directions;</hi> and in 24 Hours <hi>That Liquor,</hi> will be fit for any <hi>Phyſicall</hi> or <hi>Chyrurgicall</hi> uſe, without <hi>any fur<g ref="char:EOLhyphen"/>ther Trouble.</hi> And this is all the <hi>Trouble</hi> you need be at, as <hi>Long as you Live,</hi> putting ſtill a New ſupply of the ſame Liquor, when at any time you draw off any from the <hi>Powder,</hi> the <hi>Powder</hi> ſtill <hi>remaining in the Bottle.</hi>
+               </p>
+               <p>And here 'tis <hi>well worth your Notice, Viz,</hi>
+               </p>
+               <q>
+                  <p>That tho' the Liquor will be <hi>ſufficiently Tynctur'd,</hi> fit for uſe in 24 Hours,
+<note place="margin">☞</note> Yet if ou let it lie upon the <hi>Powder</hi> 24 <hi>Days, Months,</hi> or <hi>Years,</hi> (or I be<g ref="char:EOLhyphen"/>lieve <hi>never ſo long</hi>) it will be, (but) <hi>always fit for uſe.</hi> For <hi>no Liquor</hi> can <hi>Receive more Tyrcture,</hi> than its Body or <hi>Capacity is able to contain;</hi> And (which <hi>more is</hi>) the <hi>Powder</hi> it ſelf, will <hi>Never waſt in its Subſtance nor its Virtues,</hi> although it lye never ſo <hi>Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g</hi> in Liquors to <hi>Feed them with Vir<g ref="char:EOLhyphen"/>tues.</hi>
+                  </p>
+                  <p>Theſe are <hi>Great</hi> and <hi>High Things,</hi> and not Eaſie to <hi>be Believ'd;</hi> however
+<pb n="4" facs="tcp:153249:6"/>you'll find all <hi>True</hi> for <hi>Experience</hi> has <hi>Confirm'd them;</hi> And when <hi>You</hi> find them thus as I my ſelf (with <hi>Many worthy Perſons</hi> in <hi>this Nation</hi>) have done; let them not only be the cauſe of your Wonder and Admiration, but alſo to <hi>Magnify and Adore The Infinite <g ref="char:V">Ʋ</g>nconceivable God, (The Good,) the <g ref="char:V">Ʋ</g>nſearchable cauſe of Cauſes</hi> whoſe works are <hi>all Myſterie,</hi> and full of <hi>Wonder.</hi> But <hi>This one Thing</hi> which I here diſcourſe of, (and thus kindly Publiſh for a <hi>General Good</hi>) is <hi>One</hi> of the moſt <hi>admired Wonders</hi> (in its kind) that can be produc'd. The <hi>Load-Stone</hi> is a <hi>Great Myſtery,</hi> in its Magnetick Property, but This may be ſaid to be <hi>more Great,</hi> in that it has ſo General a <hi>Phyſical Excelling Property,</hi> as well as <hi>Magneticall.</hi> (For its Virtues are <hi>Perpetual</hi> by being Magneticall. And if you do, or can believe, the ſtrange <hi>Virtues</hi> or Property of the <hi>Load-Stone;</hi> It will be a means to help you (the more Eaſily) to the Belief of what I Here declare; concerning theſe ſeeming ſtrange and incredible things</p>
+               </q>
+               <p>The laſt of which I ſhall now diſpatch in few words; That is, if it be remember'd, what I have already ſaid concerning the four former Par<g ref="char:EOLhyphen"/>ticulars,
+<note place="margin">Fifth, with leſs C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt.</note> it is already made out.</p>
+               <p>For if it have Virtue to doe all thoſe Things which I have affirmed it can and will do, (<hi>and Theſe Perpetually</hi> as it will moſt certainly do,) what Thing is there that can be nam'd, of Greater <hi>Value, or ought to be more Highly Eſteem'd</hi> of than <hi>This Thing?</hi>
+               </p>
+               <p>So that let it coſt what it will, <hi>'tis the Cheapeſt thing upon Earth.</hi> For, when you have but <hi>Once Purchaſt it,</hi>
+                  <note place="margin">The reaſon why it is the Chea<g ref="char:EOLhyphen"/>peſt thing upon Earth.</note> you need never be at a <hi>Penny-worth</hi> of <hi>Phyſical coſt more,</hi> ſo long as you live; yea, you may when you Dye, leave it as a <hi>Precious Legacy</hi> to your beſt <hi>Friend;</hi> And He again may do the like <hi>and ſo from Generation, to Generation &amp;c.</hi>
+               </p>
+               <p>And now I think the whole <hi>Title Page</hi> is made <hi>Plain,</hi> even to the weak<g ref="char:EOLhyphen"/>eſt Capacity.</p>
+               <p>However (yet further) to Highten your Admiration and wonder, you are to know; That 'tis found by continual Experience, that this <hi>Powder</hi> is Magneticall, continually drawing Inn, the Influentiall Virtues of the Heav'ns, ſo faſt as it gives forth (<hi>Load-Stone</hi> like as I ſaid) by which Fa<g ref="char:EOLhyphen"/>culty it becomes a Perpetual Medicine,
+<note place="margin">How it comes to be a Perpetu<g ref="char:EOLhyphen"/>all Medicice.</note> by never wanting Virtue; And if this you find to be True, (as ſure enough you will, if you ever be ſo Happy, as to make Tryal of it) you then will ſurely ſay with me, <hi>'Tis the only Thing</hi> in its <hi>Kind,</hi> not only of the <hi>Greateſt Value,</hi> but of the <hi>leaſt coſt of any Thing known in the whole World.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:153249:6"/>
+               <head>The Author's Intention by this WORK.</head>
+               <p>IS This, <hi>Viz,</hi> to Accommodate the <hi>Meaner ſort of Men;</hi>
+                  <note place="margin">The Authors Intention by this Work.</note> but more eſpecially the <hi>Pooreſt</hi> of all, who ſtand moſt in Need of Help and Comfort in their Sickneſſes, ſeeing no Great and Skillfull-Phyſicians, will ſo much as look after Them, or ſcarce think of their Miſeries; ſo that <hi>many Thouſands</hi> live in <hi>Miſery; Languiſh</hi> and <hi>Dye,</hi> for want of <hi>That</hi> which every ordinary Houſe keeper might <hi>Eaſily Purchaſe,</hi> and not only have the <hi>Benefit of it</hi> for <hi>himſelf</hi> and <hi>his whole Family,</hi> during his <hi>Life,</hi> in all common Sickneſſes, and Diſea<g ref="char:EOLhyphen"/>ſes, but might alſo be <hi>aſſiſting</hi> to <hi>all his Poor Sick Neighbours round Him;</hi> And not give away the Value of a <hi>Quarter of a Farthing</hi> at any <hi>One Time,</hi> to any Poor body towards the Removing of an <hi>Ague Fever, Small-Pox,</hi> &amp;c. Yea the High <hi>High French Pox, Leproſie,</hi> or even the <hi>Plague</hi> it ſelf, all which <hi>I my ſelf</hi> can manifeſt that This Rare Cheap Thing has Cur'd, as ſhall be made out in the following Diſcourſe.</p>
+               <p>And this is the firſt of my two <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Medicines mentioned</hi> in the Title Page, where I ſay the <hi>firſt the Worſt.</hi> The meaning of which ſaying is, that 'tis worſe to procure <hi>Health,</hi> by <hi>Phyſicall-Means,</hi> than by <hi>Naturall Means,</hi> if poſſibly it may be ſo gain'd:
+<note place="margin">Note when Phy<g ref="char:EOLhyphen"/>ſick ſhould be taken, and when not.</note> 
+                  <hi>For Phyſick is a meer Sickneſs in it ſelf,</hi> and ſhould never be taken but upon <hi>Abſolute Neceſſity; and very Cau<g ref="char:EOLhyphen"/>tiouſly then too, for there is no Phyſick (Vomitive, Purgative or Applicative,) but has Poyſon in it, which is the only cauſe of its Opperative Qualities;</hi> therefore due regard ought to be had what ſort of Phyſick People put into their Bodies. But <hi>This Phyſick which I Here Publiſh has no Body, but a pure Tincture,</hi>
+                  <note place="margin">This Phyſick has no Body.</note> which although it has the <hi>Opperative Power</hi> to ſtir and bring away the <hi>Poyſonous Humors in Mens Bodies, yet it having no Body,</hi> can <hi>leave no Malignity, or Danger behind it;</hi> as too often is known from the common ordinary Potions which are given to Sick People, and which oftentimes provs more Dan<g ref="char:EOLhyphen"/>gerous than their Diſeaſes.</p>
+               <p>Now I would have you take <hi>Good Notice</hi> that what I have ſaid thus far, is chiefly in Reference to thoſe who are Paſſively Sick,
+<note place="margin">To whom only it is to be given</note> and labour under Pains and Grief, <hi>&amp;c.</hi> And unto ſuch I intend only the Benefit, and com<g ref="char:EOLhyphen"/>mend the Excellency of This High Excelling Vertue.</p>
+               <p>But for all ſuch as be actually Well, and in good Health, I do commend my Second Univerſal Medicine to be The Beſt, mention'd in the Title-Page. (<hi>Viz,</hi> The Beſt, becauſe 'tis Naturall.) Yet they Both may well be call'd the Beſt, according as they may, and muſt be us'd, by all who Truly re<g ref="char:EOLhyphen"/>gard their Health, which is Their Richeſt Earthly Treaſure.</p>
+               <p>I will now give you a little ſhort Diſcourſe concerning the <hi>Phyloſophers-Stone,</hi> and then tell you a few Remarkable Stories, concerning the Ex<g ref="char:EOLhyphen"/>cellency of This Firſt Univerſal Medicine, in certain Eminent Cures which it hath done, even to Wonder and Admiration.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:153249:7"/>
+               <head>Concerning The <hi>
+                     <hi>Phyloſophers-Stone,</hi> Which has been long ſaid to Turn all Things into Gold, and what may probably be the</hi> Real Meaning Thereof, <hi>for we can ſee</hi> No ſuch Thing.</head>
+               <lg>
+                  <l>
+                     <hi>M<g ref="char:V">Ʋ</g>ch Talk</hi> has been of <hi>The Philoſophers-Stone,</hi>
+                  </l>
+                  <l>From <hi>Ages paſt;</hi> That by <hi>its livge alone,</hi>
+                  </l>
+                  <l>'Twould turn <hi>Inferiour Metals into Gold.</hi>
+                  </l>
+                  <l>
+                     <hi>A Glorious Worder</hi> ſure, if True; but <hi>Hold!</hi>
+                  </l>
+                  <l>
+                     <hi>Where is't? Who has't?</hi> we no <hi>ſuch Thing</hi> can ſee;</l>
+                  <l>'Tis ſurely Folded up in <hi>Myſtery,</hi>
+                  </l>
+                  <l>And moſt believe, 'tis <hi>cortainly a Lye.</hi>
+                  </l>
+                  <l>Yet truely, (for mine own part) <hi>ſo don't l.</hi>
+                  </l>
+                  <l>I do believe, that Really there is</l>
+                  <l>In Nature's Store, ev'n <hi>ſuch a Thing as This;</hi>
+                  </l>
+                  <l>Tho' not according to its <hi>Literal Senſe,</hi>
+                  </l>
+                  <l>As turning <hi>Br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſs,</hi> into <hi>Gold</hi>'s <hi>Quint-Eſſence,</hi>
+                  </l>
+                  <l>That ſaying's ſurely <hi>Metaphorical,</hi>
+                  </l>
+                  <l>And cannot well be underſtood by <hi>All,</hi>
+                  </l>
+                  <l>But needs Explaining; and therefore ſhall be,</l>
+                  <l>Made eaſie, to each low Capacity.</l>
+               </lg>
+               <div type="section">
+                  <head>The Explanation Thus.</head>
+                  <lg>
+                     <l>Moſt Men judge <hi>Gold</hi> to be, <hi>The chiefeſt Thing,</hi>
+                     </l>
+                     <l>
+                        <hi>Delighting Man,</hi> which Nature's Store, doth bring;</l>
+                     <l>For where there's <hi>Gold Enough, Naughts</hi> wanting there,</l>
+                     <l>All Things beſide are Gain'd by little Care.</l>
+                     <l>What doe not Men attempt <hi>God-Gold to Gain?</hi>
+                     </l>
+                     <l>Oh! how they <hi>Cuddle!</hi> how they <hi>Run Amain!</hi>
+                     </l>
+                     <l>Adventring <hi>life and Limbs,</hi> to find it out,</l>
+                     <l>Yea, often) Their moſt <hi>Precious Souls to boot,</hi>
+                     </l>
+                     <l>Yet notwithſtanding <hi>This; One Thing</hi> I'll name,</l>
+                     <l>Of much more <hi>Value; Farr Exceeds the ſame;</hi>
+                     </l>
+                     <l>'Tis <hi>Health! Health! Health; That High Praiz'd Jewel Health,</hi>
+                     </l>
+                     <l>And in compare of Which, <hi>Gold</hi>'s meerely <hi>Pelfe.</hi>
+                     </l>
+                     <l>For were all <hi>Woods, Rocks, Hills,</hi> yea <hi>Mountains Gold;</hi>
+                     </l>
+                     <l>And free for any one to take that would.</l>
+                     <l>Yet wanting <hi>That moſt Rich, Chi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>f Treaſure, Health,</hi>
+                     </l>
+                     <l>Thoſe <hi>Golden Mounts</hi> would nought reſemble <hi>Wealth.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>For thus it may be Truely ſaid.</head>
+                  <lg>
+                     <l>
+                        <hi>The Rich Man Sick,</hi> and full of <hi>Paine</hi> is <hi>Very Foor,</hi>
+                     </l>
+                     <l>
+                        <hi>The Poor M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi> in his <hi>Health,</hi> and <hi>Strong,</hi> is <hi>Rich; yea more;</hi>
+                     </l>
+                     <l>For He's contented with his <hi>little Store,</hi>
+                     </l>
+                     <l>And <hi>That's</hi> a <hi>Treaſure, Ever running o're.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="7" facs="tcp:153249:7"/>
+                  <head>Now Here take Notice,</head>
+                  <lg>
+                     <l>That Health's That <hi>Precious</hi> Thing the Wiſe men (ſure) of old,</l>
+                     <l>Did comprehend under That <hi>Specious</hi> Name of Gold.
+<note place="margin">☞</note>
+                     </l>
+                     <l>And had a Stone which would procure The Same,</l>
+                     <l>Which Stone I Fancy much that I could Name.</l>
+                     <l>But ſhew one like't I will, that every one may ſee,</l>
+                     <l>How Wond'rouſly it works in Myſtery.</l>
+                     <l>So, that in time, Experience plain ſhall ſhow,</l>
+                     <l>And make Men ſay, <hi>We now That Stone do Know;</hi>
+                     </l>
+                     <l>And for Subſtantial Reaſons, Thus conclude,</l>
+                     <l>To <hi>This</hi> ſame <hi>Stone,</hi> the <hi>Wiſe men did allude.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Now here Friend Reader take Notice,</head>
+                  <p>I Declare (in the Preſence of the All knowing God) that I have been made Happy, in the Knowledge and poſſeſſion of this Rare Thing, more than 30. Years laſt paſt, as will appear in the Firſt of thoſe Eight Marvellous Unqueſtionable Stories (here ſhortly following) and for the which I moſt humbly give Thanks and Praiſe to That moſt Bountifull Donor; This being <hi>That Great <g ref="char:V">Ʋ</g>niverſal Medicine of all <g ref="char:V">Ʋ</g>niverſals;</hi> and the which of late years I have Publiſhed, under the Name of <hi>The Engliſh Prieſt's Powder.</hi> And here I think it convenient to give my Reaſon, why I gave it <hi>That Name,</hi> having been ſomtimes ask'd why I call'd it ſo. My Reaſon was This. <hi>Viz,</hi>
+                  </p>
+                  <p>Becauſe, there have been Two very <hi>Eminent Powders,</hi>
+                     <note place="margin">
+                        <hi>The Reaſon of the Name of the</hi> Engliſh <hi>Prieſts Powder, and its Augmentation.</hi>
+                     </note> of late years Publiſhed, under the Names of Two <hi>Roman Catholiks,</hi> the <hi>one</hi> was Sir <hi>Kenelm Digby</hi>'s <hi>Sympatheticall Powder,</hi> which would <hi>Cure Wounds</hi> at <hi>many Miles diſtance,</hi> by only <hi>Anointing the Weapon</hi> or <hi>Blood</hi> taken upon a <hi>Cloath</hi> &amp;c. (the which is very <hi>Admirable</hi>). The <hi>other</hi> was the <hi>Roman Jeſuit</hi>'s <hi>Famous Phyſical Powder,</hi> (very <hi>Highly Magnify'd by moſt Great Perſons) &amp;c.</hi>
+                  </p>
+                  <p>And now, <hi>My Powder</hi> being the 3d. <hi>(Et Tria ſunt Omnia)</hi> and find<g ref="char:EOLhyphen"/>ing it no whit <hi>Inferior</hi> to thoſe two <hi>Former;</hi> But in <hi>Many Reſpects, Far out<g ref="char:EOLhyphen"/>ſtriping them;</hi> and, that the world ſhould ſee, that <hi>The great Bountifull Donor</hi> of all <hi>Excellent Guifts,</hi> has not <hi>Bound Himſelf</hi> up <hi>in His High Fa<g ref="char:EOLhyphen"/>vours only to Thoſe of the Roman Church,</hi> But has likewiſe been Pleaſed to Diſtribute <hi>Some,</hi> to an <hi>
+                        <g ref="char:V">Ʋ</g>nworthy Son of the Proteſtant-Church of England</hi> alſo; therefore I call it ſo. But now, (for the more <hi>Cleer Diſtinction ſake</hi>) I would have it call'd, The <hi>Engliſh</hi> PROTESTANT PRIEST'S POWDER.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>And now I ſhall Proceed (as before) and let you know the Admired Uſe of</hi> This Powder (or Stone) <hi>Firſt, as 'tis</hi> Phyſical, <hi>Viz,</hi>
+                  </head>
+                  <lg>
+                     <l>FEar You the <hi>Plague,</hi> and fain would be Secure,
+<note place="margin">The <g ref="char:V">Ʋ</g>niverſall Phyſical Medi<g ref="char:EOLhyphen"/>cine.</note>
+                     </l>
+                     <l>Let <hi>This</hi> be us'd, it is <hi>Prevention ſure.</hi>
+                     </l>
+                     <l>
+                        <pb n="8" facs="tcp:153249:8"/>Yea, were the <hi>Plegue</hi> ev'n <hi>Settl'd</hi> in your <hi>Blood,</hi>
+                     </l>
+                     <l>There's nothing <hi>Likelier</hi> (ſure) to do you <hi>Good,</hi>
+                     </l>
+                     <l>Or have you <hi>That Foul, Naſty, Pockey, French Diſeaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>?</hi>
+                     </l>
+                     <l>Take <hi>This,</hi> 'twill ſurely <hi>Cure,</hi> and <hi>Throughly</hi> give you <hi>Eaſe.</hi>
+                     </l>
+                     <l>The <hi>Quartan Ague</hi> (moſt <hi>Phyſician</hi>'s <hi>Shame),</hi>
+                     </l>
+                     <l>It fails not <hi>Perfectly</hi> to <hi>Cure,</hi> the ſame.</l>
+                     <l>Then down from th' <hi>Plague and Pox,</hi> thro' all <hi>Inferior Ills,</hi>
+                     </l>
+                     <l>If <hi>Curable it Cures,</hi> and <hi>All</hi> Their <hi>Cauſes Kills.</hi>
+                     </l>
+                     <l>For by Its <hi>Searching, Clearſing-Faculty</hi> and <hi>Might,</hi>
+                     </l>
+                     <l>It <hi>Cleers</hi> the <hi>Body</hi> of <hi>All;</hi> and ſets <hi>weak Nature</hi> Right.</l>
+                     <l>For unto <hi>Nature</hi> 'tis ſo <hi>Sure</hi> a <hi>Friend,</hi>
+                     </l>
+                     <l>It keeps it <hi>Healthy,</hi> to its <hi>Deſtin'd End.</hi>
+                     </l>
+                     <l>And for Mine Own Part, when This <hi>fails to give,</hi>
+                     </l>
+                     <l>
+                        <hi>Aſſiſtance</hi> to my <hi>Life, I'll Ceaſe to Live.</hi>
+                     </l>
+                     <l>No other Means I'll uſe; none can be Given,</l>
+                     <l>For when <hi>This failes, Prepare your ſelf for Heav'n.</hi>
+                     </l>
+                     <l>
+                        <hi>Thus far concerning Its</hi> Phyſicall Opperations.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Now concerning Its Virtues</hi> Chyrurgicall.</head>
+                  <lg>
+                     <l>IF <hi>Outwardly Apply'd,</hi> 'twill <hi>Cure a Wound,</hi>
+                     </l>
+                     <l>A <hi>Bruize,</hi> a <hi>Sore,</hi> a <hi>Scab,</hi> 'twill make <hi>all Sound.</hi>
+                     </l>
+                     <l>
+                        <hi>For Head-Ach, Pains</hi> and <hi>Rheumatick, Sore Eyes,</hi>
+                     </l>
+                     <l>There's <hi>Nothing Better</hi> (ture) <hi>Man</hi> can <hi>De<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ſe.</hi>
+                     </l>
+                     <l>
+                        <hi>But to be ſhort,</hi>
+                     </l>
+                     <l>Moſt things with <hi>Phyſicks, Oyntments, Plaſters, Salves</hi> can do,</l>
+                     <l>
+                        <hi>This Thing</hi> ſhall do <hi>the Like,</hi> if not <hi>Out-do them (too.)</hi>
+                     </l>
+                     <l>And thus much (ſure's) enough to ſhow <hi>Its Excellence,</hi>
+                     </l>
+                     <l>And give it <hi>(Juſtly)</hi> due <hi>Preheminence.</hi>
+                     </l>
+                     <l>'Bove any <hi>One Thing</hi> known in <hi>Nature</hi>'s <hi>Store,</hi>
+                     </l>
+                     <l>Yet of <hi>This Virtue</hi> (ſtill) I can ſay <hi>More.</hi>
+                     </l>
+                     <l>"And <hi>One Thing</hi> more I'll ſay, I have not ſaid,</l>
+                     <l>"The which ſhall ſet its <hi>Crown upon Its Head.</hi>
+                     </l>
+                     <l>"And <hi>This</hi> it is,</l>
+                     <l>"This Wond'rous-Virtue is Magneticall,</l>
+                     <l>"By which,</l>
+                     <l>"<hi>Its Opperations are Perpetuall.</hi>
+                     </l>
+                     <l>"That is, ſo long as <hi>Nature</hi> doth endure,</l>
+                     <l>"(Ev'n <hi>Load-Stone-like</hi>) It keeps <hi>Its Virtues ſure.</hi>
+                     </l>
+                     <l>"Which is a <hi>Wonder,</hi> Never yet was <hi>Told,</hi>
+                     </l>
+                     <l>"Of any <hi>Phyſick,</hi> either <hi>New or Old.</hi>
+                     </l>
+                     <l>"But <hi>Truth it is; Experience</hi> doth <hi>Confirm it,</hi>
+                     </l>
+                     <l>"And from <hi>Experience</hi> I do <hi>Thus affirm it.</hi>
+                     </l>
+                     <l>Yea, <hi>Witneſſes</hi> good Store, if need there were,</l>
+                     <l>I could produce, to make <hi>This Truth</hi> Appear.</l>
+                     <l>But <hi>That</hi> is needleſs; Why? Anſ. Becauſe,</l>
+                     <l>That any one, may by an <hi>Eaſie Tryal,</hi>
+                     </l>
+                     <l>
+                        <hi>Prove,</hi> or <hi>Diſprove</hi> the <hi>Thing,</hi> 'gainſt <hi>All Denial,</hi>
+                     </l>
+                     <l>
+                        <pb n="9" facs="tcp:153249:8"/>But ſtill.</l>
+                     <l>If This a <hi>Wonder</hi> ſeem, conſider Well,</l>
+                     <l>The <hi>Virtues</hi> of the <hi>Load Stone,</hi> which to Tell,</l>
+                     <l>Is alſo <hi>Needleſs;</hi> Why? Anſ. Becauſe, that moſt Men know</l>
+                     <l>It has a <hi>Secret Power</hi> Thus to doe,</l>
+                     <l>That is,</l>
+                     <l>To draw <hi>in Vertue</hi> as faſt as it <hi>gives Forth,</hi>
+                     </l>
+                     <l>And ſo <hi>Perpetuates</hi> in its <hi>Excellent Worth.</hi>
+                     </l>
+                     <l>And, why not This (I pray?)</l>
+                     <l>'Tis worth each <hi>Wiſe Man's</hi> Eaſie Tryal,</l>
+                     <l>And That's the <hi>Sureſt Way,</hi>
+                     </l>
+                     <l>To prove the <hi>Truth</hi> 'gainſt all Denial.</l>
+                     <l>And when you find This <hi>True,</hi> as certain <hi>Truth</hi> it is,</l>
+                     <l>Eſteem It one of <hi>Natures</hi> choiceſt <hi>Myſteries.</hi>
+                     </l>
+                     <l>
+                        <hi>Gloria Deo in Eternitate.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>
+                        <hi>BEloved Reader,</hi> mind me Well,</l>
+                     <l>I no <hi>Fictious Stories</hi> Tell,</l>
+                     <l>But real <hi>Truths</hi> (as I can Show)</l>
+                     <l>Which from <hi>Experience</hi> you ſhall know.</l>
+                     <l>If <hi>Patience</hi> you'l but have and Try,</l>
+                     <l>You'l ſay, 'tis Truth, <hi>as well as I.</hi>
+                     </l>
+                     <l>Therefore,</l>
+                     <l>I'll ſay no more to <hi>praiſe It,</hi> but here <hi>End,</hi>
+                     </l>
+                     <l>Let it in its <hi>Great Work,</hi> it ſelf <hi>Commend.</hi>
+                     </l>
+                  </lg>
+                  <p>And now (<hi>Friend Reader</hi>) if thou canſt find but ſo great <hi>Faith,</hi> as to Believe This <hi>Mighty Troath,</hi> which I do Publiſh Here, Thou mayeſt be Hap<g ref="char:EOLhyphen"/>py in the Procurement of <hi>This Rare Thing.</hi>
+                  </p>
+                  <p>But if not,</p>
+                  <p>Thou muſt be content to Live as well as thou canſt, in thine own <hi>Igno<g ref="char:EOLhyphen"/>rant Hard Happ</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>nbelief,</hi> and let others Enjoy the Benefit thereof, who are more <hi>Charitably Credulous,</hi> and dare Believe an <hi>Honeſt Man</hi> upon his own <hi>Bare Word.</hi>
+                  </p>
+                  <p>But now I think on't <hi>Better,</hi> and conſider the <hi>Nature</hi> of his my ſeeming <hi>Bold,</hi> and ſtrange <hi>
+                        <g ref="char:V">Ʋ</g>ndertaking,</hi> and that it muſt needs appear very <hi>Doubt<g ref="char:EOLhyphen"/>ful,</hi> or <hi>Incredible</hi> to moſt (or indeed to all) who have taken little or no <hi>Notice</hi> of <hi>Nature's Wonderful Opperations,</hi> and the <hi>Admirable Secrets</hi> which lie <hi>Hid,</hi> and cloſe lockt up, in Her <hi>Rich Cabinet,</hi> (not to be Reveal'd, or known to any, that doe not intently give their Minds delightfully after ſuch Things.) I will therefore here relate ſomething that may give thee a competent Satisfaction in ſome few particular inſtances,</p>
+                  <p>But ſtill, Thou muſt <hi>Believe.</hi> For,</p>
+                  <p>It was never my <hi>Buſineſs,</hi> nor is, nor ever ſhall be, to play the <hi>Quack, Emperick,</hi> or <hi>Mountebanck,</hi> &amp;c.</p>
+                  <lg>
+                     <l>I am no <hi>Mountebank,</hi> No! no ſuch Thing,</l>
+                     <l>No boaſting Covetous <hi>Phyſician;</hi>
+                     </l>
+                     <l>But I am <hi>One,</hi> who thus <hi>Good Tydings</hi> bring</l>
+                     <l>Both to the <hi>Rich,</hi> and to the <hi>Pooreſt Man:</hi>
+                     </l>
+                     <l>
+                        <pb n="10" facs="tcp:153249:9"/>And am unto <hi>my Kind,</hi> ſo much a <hi>Lover,</hi>
+                     </l>
+                     <l>That therefore I, this rare Thing <hi>thus Diſcover.</hi>
+                     </l>
+                     <l>Which (doubtleſs) has been known to ſome few <hi>Wiſe of Old,</hi>
+                     </l>
+                     <l>Tho' not thought <hi>Fit,</hi> to'th Publick to be <hi>Told.</hi>
+                     </l>
+                     <l>'Twould ſure have been too <hi>Great a Loſs</hi> to'th <hi>Trade,</hi>
+                     </l>
+                     <l>If publick <hi>Knowledge</hi> of it had been <hi>Made.</hi>
+                     </l>
+                     <l>However <hi>Here it is,</hi> and thus I'll make it <hi>Common,</hi>
+                     </l>
+                     <l>And chiefly for the ſake of each <hi>poor Man</hi> and <hi>Woman;</hi>
+                     </l>
+                     <l>And at ſo Eaſie a <hi>Rate,</hi> that all the <hi>World</hi> ſhall ſee,</l>
+                     <l>Nothing can be more <hi>Cheap,</hi> aſſured</l>
+                     <l>That bears a <hi>Price,</hi> if it you will <hi>Compare,</hi>
+                     </l>
+                     <l>To any <hi>thing</hi> that's <hi>Common,</hi> or that's <hi>Rare.</hi>
+                     </l>
+                     <l>For,</l>
+                     <l>One <hi>Doſe</hi> of it,
+<note place="margin">☞</note> if you will keep with <hi>Care,</hi>
+                     </l>
+                     <l>Will laſt your <hi>Life,</hi> and ſo from <hi>Heir</hi> to <hi>Heir.</hi>
+                     </l>
+                     <l>If this a <hi>Wonder</hi> ſeem, do but Conceive,</l>
+                     <l>It has <hi>Magnetick Vertue</hi> to Receive;</l>
+                     <l>So faſt as it gives Forth, and ſo thereby</l>
+                     <l>Perpetuates in <hi>Circularity.</hi>
+                     </l>
+                     <l>The <hi>Load-ſtone</hi> has the like, which when Man <hi>Knows</hi> and <hi>Sees,</hi>
+                     </l>
+                     <l>Let him <hi>Admire,</hi> and <hi>Praiſe,</hi> the God of <hi>Myſteries.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Some Inſtances follow as it has Wrought in Eight Eminent Stories.</head>
+                  <p>THE firſt ſhall be a <hi>true Story</hi> of what hapned at <hi>Cambridge,</hi>
+                     <note place="margin">
+                        <hi>The Firſt Story of the</hi> Plague.</note> in Alder<g ref="char:EOLhyphen"/>man <hi>Muriel</hi>'s Family. In the Year 1665, or 1666, in both which Years, the <hi>Plague</hi> was in that Town (my ſelf being an Inhabitant there<g ref="char:EOLhyphen"/>in;) This <hi>Perſon,</hi> his <hi>Wife</hi> and <hi>Family,</hi> were all ſhut up upon that Account in St. <hi>Clement</hi>'s Pariſh; when as a near <hi>Neighbour</hi> of <hi>His,</hi> (and a Friend of <hi>Mine</hi>) knowing that I had this <hi>Excellent Vertue,</hi> came to me, and deſired me, to ſend them ſome of it in their <hi>Diſtreſs:</hi> And truly, (at the firſt) I did <hi>Refuſe</hi> to do it, in regard it was a <hi>Deſperate Caſe,</hi> (my Self, not be<g ref="char:EOLhyphen"/>ing a Profeſs'd <hi>Phyſician.</hi>) And beſides, there were in the Town, divers Able Phyſicians, ſo that I told this Friend, that if I ſhould meddle, and any of them ſhould <hi>Die upon it,</hi> I might run my Self into I knew not what <hi>Danger,</hi> and thereupon deſir'd to be <hi>Excus'd;</hi> adviſing them to have <hi>Recourſe</hi> to the Phyſicians, <hi>&amp;c.</hi> Mr. <hi>Murial</hi> being an <hi>Alderman,</hi> there muſt needs follow a greater <hi>Notice</hi> of any <hi>Miſhap Hapning,</hi> than if he had been an <hi>Inferior Man:</hi> But this Friend of mine, would not be ſatisfi'd, but ſtill urg'd me to comply with her deſire; telling me, That I ſhould not be known in the <hi>Buſineſs,</hi> but that She her Self, would take it wholly upon Her.</p>
+                  <p>Whereupon, I did <hi>Conſent,</hi> and ſent Her three quart Bottles of <hi>this prepar'd Vertue in Sack;</hi> ſo ſhe went with it as near the <hi>Houſe</hi> as ſhe thought Convenient, and call'd to the <hi>Watchman,</hi> or <hi>Keeper,</hi> of their <hi>Door,</hi> and bid him call to Mr. <hi>Muriel,</hi> to look out of his <hi>Chamber Window,</hi> which both <hi>He</hi> and his <hi>Wife</hi> preſently did, (being themſelves both very well at
+<pb n="11" facs="tcp:153249:9"/>that preſent,) ſo ſhe told them, <hi>What a Hopeful good thing ſhe had there for them, which ſhe doubted not, but would preſerve them all,</hi> &amp;c.</p>
+                  <p>But Mr. <hi>Muriel</hi> himſelf <hi>Refuſed it,</hi> and ſaid, <hi>He would take none of it:</hi> But Mrs. <hi>Muriel</hi> deſired her to ſet down, ſaying theſe very Words, <hi>By the Grace of God ſhe would take it;</hi> whereupon it was ſet down, and ſuch <hi>Directions,</hi> as I had given, for its Uſe, was likewiſe left; ſo my Friend re<g ref="char:EOLhyphen"/>tired, and the <hi>Watchman</hi> came and took it, and ſet it into the Houſe for them.</p>
+                  <q>
+                     <p>Now the <hi>Sequel</hi> is to be <hi>Obſerv'd,</hi> which, in ſhort, was this: Mrs. <hi>Muriel her ſelf took it, and gave it to every perſon in the Family, (both to the Sick, and to the Well.)</hi>
+                     </p>
+                     <p>
+                        <hi>The Sick Recovered, the Well never fell Sick, only Mr.</hi> Muriel <hi>himſelf, (who refus'd to take it) Sickned and Died.</hi>
+                     </p>
+                  </q>
+                  <p>This is a Story ſtill in Memory by the Ancient Livers in the Pariſh, and may be prov'd if need were, but it ſhall be none of my Buſineſs; I told you, <hi>You muſt Believe,</hi> but chuſe <hi>Whether you will or not.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Of the Leproſie.</head>
+                  <p>AT the Lady <hi>Rhoade</hi>'s Houſe in <hi>Derby Shire,</hi>
+                     <note place="margin">The Second Story.</note> at a place call'd <hi>Barl-brough-Hall</hi> (a Mile of <hi>Clowne</hi>) I met with one <hi>Thomas,</hi> an Old Man, I knew him by no other Name) he being the <hi>Ladies</hi> Over-ſeer of Her <hi>Cole-pits,</hi> with whom (the Year before) I had left ſome of <hi>This High Ver<g ref="char:EOLhyphen"/>tue,</hi> as alſo, with the <hi>Ludy her ſelf,</hi> a pretty full Store, for ſhe would needs be a Factriſs for me, to divers of her Friends, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Now, as ſoon as I was come thither, and Old <hi>Thomas</hi> had Saluted me; he preſently told me, <hi>That his Wife had cured one of the Leproſie</hi> with my Powder, which to me was a great peice of <hi>Strange News<g ref="char:punc">▪</g>
+                     </hi> in that, I never had the opportunity to try it upon any ſuch. Here you have the Perſon and the place, ſo that the Verity cannot be ſuſpected; and I am confident the Lady her ſelf, will aver what I have writ from Old <hi>Thomas;</hi> I ſhall ſay no more to this.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>The Story ſhall be of an other Female Perſon, at the ſame Lady</hi> Rhoad's <hi>in</hi> Derby-ſhire, <hi>whoſe Name was Madam</hi> Green.</head>
+                  <p>HER viſible <hi>Diſeaſe</hi> was the <hi>Yallaw Jaundice,</hi>
+                     <note place="margin">
+                        <hi>The Third Story of the</hi> Yallow Jaundice, <hi>Ob<g ref="char:EOLhyphen"/>ſtrustions,</hi> and <hi>Monthly Viſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </note> (very much diſcovering it ſelf in her <hi>Colour</hi>) proceeding from inward <hi>Obſtructions;</hi> and thoſe, from the want of her monthly <hi>Wiſits,</hi> and thoſe, from the Original of All, (or moſt <hi>Diſeaſes</hi>) viz. the <hi>Stomach,</hi> (a foul Corrupt <hi>Stomach,</hi>) which, as it were, Poiſon'd all her <hi>Food;</hi> the which corrupted her <hi>Blood,</hi> and diſtemper'd her whole <hi>Body,</hi> ſo that ſhe could have no perfect <hi>Noriſhment,</hi> by any thing, ſhe either <hi>Eat</hi> or <hi>Drank:</hi> And ſo it certainly is with all Peo<g ref="char:EOLhyphen"/>ple, that take not eſpecial care to keep their <hi>Stomachs</hi> Clean. Now ſhe had
+<pb n="12" facs="tcp:153249:10"/>us'd all the helps as ſhe thought convenient at <hi>London,</hi> but nothing did her <hi>Good,</hi> until ſhe had made trial of this prevailing <hi>Medicine,</hi> which I here ſpeak of. She took it but five times, and ſhe began firſt with three ſpoon<g ref="char:EOLhyphen"/>fuls, and every other day increas'd a ſpoonful, till ſhe had taken ſeven ſpoonfuls, and <hi>Then ſhe was perfectly Cur'd of all, being clearly free'd from the Yellow Jaundice,</hi> and from all her other Grievances; as alſo reſtor'd to her <hi>Monthly Viſits.</hi> The want of which (proceeding from her foul Sto<g ref="char:EOLhyphen"/>mach) was the cauſe of all her Ills.</p>
+                  <p>This Story is eaſie enough to be prov'd or diſprov'd, <hi>Run or Ride that will.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Of a Girl brought to Life after ſhe was laid out to be</hi> Stript.</head>
+                  <p>THIS <hi>Gentleman</hi> having been one of my <hi>Old Acquaintance</hi> in <hi>Cambridge,</hi>
+                     <note place="margin">
+                        <hi>This Forth</hi> Story <hi>was ſent me in a Letter from Mr.</hi> Sa<g ref="char:EOLhyphen"/>muel Taylor, <hi>Chaplain to Sir</hi> Roger Lang<g ref="char:EOLhyphen"/>ley <hi>of</hi> Cherry-Hutton, 7 <hi>or</hi> 8 <hi>Miles be<g ref="char:EOLhyphen"/>yond</hi> York, <hi>and Miniſter of the ſame Town al<g ref="char:EOLhyphen"/>ſo; who like<g ref="char:EOLhyphen"/>wiſe was a Phyſician to his Neighbour<g ref="char:EOLhyphen"/>bood,</hi> &amp;c.</note> meeting me at <hi>York,</hi> and hearing that I had This <hi>Great Rarity,</hi> pre<g ref="char:EOLhyphen"/>vail'd with me for ſome of it.</p>
+                  <p>But he (having entred into a former formal way of <hi>Practice</hi>) laid this of mine aſide for ſome Years, not at all making uſe of it, till once, upon a very <hi>Dangerous Caſe,</hi> when he had given a Girl (about Ten Years of Age) ſome certain <hi>Phyſicks</hi> which did not <hi>work</hi> at all, but lay in the <hi>Bo<g ref="char:EOLhyphen"/>dy</hi> of the <hi>Girl,</hi> to her great <hi>Oppreſſion,</hi> and his great <hi>Fear;</hi> ſo that he knew not what to do further, till at laſt he bethought himſelf of <hi>My Powder.</hi> And according to ſuch <hi>Direction<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> as I had given him, he venter'd to give the <hi>Girl</hi> a Doſe of it; which, after ſome little time, the Child be<g ref="char:EOLhyphen"/>gan to be extream Sick, <hi>and Died away,</hi> and continued ſo long, till the Women thought convenient to <hi>ſtript it,</hi> and (to That purpoſe) laid it forth upon a Table, and began to turn it over and over, in the way of <hi>Stripping:</hi> But in <hi>That Action,</hi> the Girl began to make ſome <hi>Motion,</hi> and ſoon after to <hi>Boaken,</hi> upon which, they taking <hi>Her up,</hi> and aſſiſting what they could, the <hi>Child</hi> began to <hi>Vomit,</hi> and ſo continued, till ſhe had brought up all her former Load of <hi>Phyſich,</hi> and her <hi>Diſeaſe</hi> along with it; and from That time ſhe <hi>Amended</hi> and <hi>Recovered</hi> her perfect <hi>Health,</hi> and grew found again. This <hi>Story,</hi> I have ſtill under the <hi>Miniſters own Hand Writing,</hi> which was in the Year, 1670.</p>
+                  <p>Now what is chiefly worth Noteing in this Story, is, <hi>That Nature <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſo extreamly over loaden by the Diſeaſe and the former Phyſick, that the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> was not able to bear up againſt it, and fell into Languiſhment.</hi> But then, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> this <hi>Powerful Vertue</hi> was added to the Former, it muſt needs either <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> dainly <hi>Deſtroy Life,</hi> or ſet it at <hi>Liberty;</hi> the Firſt of which, as you have heard, Happened. And, if this be not an <hi>Eminent,</hi> and a moſt <hi>Remarka<g ref="char:EOLhyphen"/>ble Story,</hi> I would fain hear one by any that are thus Imploid; I have told it with <hi>Particulars enough,</hi> and <hi>Circumſtances</hi> more than <hi>ſufficient,</hi> inſo<g ref="char:EOLhyphen"/>much, That it may eaſily be Prov'd or Diſprov'd, if any be ſo minded. I am no <hi>Mountebank,</hi> nor will I otherwiſe Trouble my ſelf, to make <hi>People Believe;</hi> their <hi>
+                        <g ref="char:V">Ʋ</g>nbelief</hi> will be their own <hi>Loſs,</hi> and not <hi>Mine.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="13" facs="tcp:153249:10"/>
+                  <head>Of a deep Conſumption, by twice taking this Vertue, was Cured.</head>
+                  <p>THere was a <hi>Perſon</hi> in the City of <hi>Norwich,</hi>
+                     <note place="margin">The Fifth Story.</note> (a meer ſtranger to me) nor do I remember that ever I heard his Name; he was a Maſter Work-man of <hi>Stuffs,</hi> and kept many Men at <hi>work</hi> in that <hi>Trade;</hi> he was a <hi>Friend</hi> of a near <hi>Kinſmans</hi> of mine there, who deſir'd me to walk down and ſee him, ſo we went to his <hi>Houſe:</hi> The Man was <hi>Bed-rid,</hi> and waſted to <hi>Skin</hi> and <hi>Bone,</hi> with a deep <hi>Conſumption,</hi> and ſo very weak grown, that all about him thought he could not live.</p>
+                  <p>I asked his Wife, if he could ſit up? She anſwered, No, my reply was, That then he muſt <hi>Die;</hi> yet I told her, <hi>That Life was ſweet.</hi> And if they could raiſe him up by ſtrength of <hi>Arms,</hi> and ſet him in a Great <hi>Chair,</hi> (which I ſaw there ſtanding by) and <hi>Boulſter</hi> him up with <hi>Pillows,</hi> and hold him ſo for an Hour or two, it might be worth your Labour, and I would ſend him two or three ſpoonfuls of ſomething to take (which was this Liquor.</p>
+                  <p>All this was done, and he took the Liquor, and it wrought ſo effectually upon <hi>Him,</hi> and his <hi>Diſeaſe,</hi> that he grew finely <hi>Cheerful;</hi> after it had done working That Day, and ſat up two or three Hours after it.</p>
+                  <p>The next day but one, he took it again, in a greater <hi>Quantity,</hi> which wrought ſo <hi>Effectually,</hi> bringing off from his <hi>Stomach</hi> ſuch a boundance of <hi>Foul Humours</hi> (which were the only Cauſe, that no <hi>Meats</hi> or <hi>Drinks</hi> could <hi>nouriſh</hi> him;) that from That ſecond Taking, he was ſo <hi>Reviv'd</hi> and <hi>Refreſh'd,</hi> that he ran about the <hi>Houſe</hi> among his <hi>Work-folks,</hi> as if he had not been <hi>Sick</hi> at all; only he look'd like a <hi>Starveling,</hi> as <hi>Lean</hi> as a <hi>Rake,</hi> as the Proverb goes. So that he perfectly recovered out of his <hi>Conſumption</hi> from That very time.</p>
+                  <p>I would fain have perſwaded him to have taken it once or twice more, to have confirm'd him in his <hi>Health,</hi> but could not: He telling me he was <hi>Very well, Very well,</hi> &amp;c.</p>
+                  <p>This is as true a <hi>Story,</hi> as was the former, and very Notable ſure.</p>
+               </div>
+               <div type="section">
+                  <head>Of a ſoar Breaſt.</head>
+                  <p>IN the ſame City of <hi>Norwich,</hi>
+                     <note place="margin">The Sixth Story.</note> there was a Servant Maid unto Mr. — <hi>Cook,</hi> one of the Sheriffs of the City, living in <hi>Cunsford ſtreet.</hi> There were two Brothers at That time of the ſame Name, both Sheriffs of That City; this Mr. <hi>Cook</hi> was the younger Brother, but the Senior Sheriff, and as I am inform'd, was Mayor there the laſt Year, or the Year before: This Maid had been long afflicted with a <hi>Soar Breaſt,</hi> and often heal'd by <hi>Chyrurgeons,</hi> but ſtill broak out again, which continu'd thus many Years.</p>
+                  <p>It was my <hi>Chance</hi> to be there, and ſeeing it, I did adviſe Her to make uſe of This Thing; the which, I left with her, with <hi>Directions</hi> how to uſe it; and not long after, I received a Letter that this Malds Breaſt
+<pb n="14" facs="tcp:153249:11"/>was perfectly <hi>Cur'd,</hi> and ſtood <hi>Sound.</hi> Her Miſtreſs (Mrs. <hi>Cook</hi>) ſent me a very civil piece of <hi>Thankfulneſs</hi> for it afterwards.</p>
+                  <p>This is a <hi>true Story,</hi> and may eaſily be Prov'd, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Of Madneſs Cur'd, very Remarkable.</head>
+                  <p>THis Story ſhall be of a <hi>Mad-Woman,</hi>
+                     <note place="margin">The Seventh Story.</note> at a place call'd, <hi>Wath</hi> in <hi>York<g ref="char:EOLhyphen"/>ſhire,</hi> four or five Miles from <hi>Rotherham,</hi> who threw her ſelf into a <hi>Deep Well</hi> of <hi>Water,</hi> and very heardly was got out <hi>Alive,</hi> I being by chance at that Town, hearing of it, went down the Town to ſee this ſad <hi>Sight,</hi> and found the <hi>Woman</hi> faſtned to her <hi>Bed-Poſt,</hi> with a great <hi>Horſe-Chaine,</hi> and her <hi>Husband</hi> with others, ſorrowfully ſtanding by; The <hi>Woman</hi> looking Frightfully and Sullenly upon us all. So after a little Diſcourſe upon the occaſion, I ask'd her <hi>Husband,</hi> if he had ſought out for any means or help of <hi>Phyſicians</hi> for his Wives <hi>Recovery?</hi> &amp;c. His Anſwer was, That he was a <hi>Poor Man,</hi> and had not where-with-all to do it, <hi>&amp;c.</hi> Then I ask'd him, If he were willing to uſe Means if it were given him? <hi>&amp;c.</hi> He anſwer'd, <hi>He ſhould be very thankful,</hi> &amp;c. Whereupon, I ordered it ſo, That when ſhe call'd for <hi>Drink</hi> next time, there ſhould be a good <hi>Doſe</hi> of this <hi>Tincture</hi> put into it, (for I perceiv'd, ſhe was a luſty ſtrong <hi>Woman.</hi>) The which was done, and ſoon after ſhe call'd for <hi>Drink,</hi> and took it all off, and in a little time, it began to work <hi>(Rarely Well;)</hi> ſhe all the while ſtanding ſtoutly upon her Legs <hi>ſtaring Mad,</hi> and ſpouting all the <hi>Vomits</hi> out of her <hi>Mouth,</hi> to a huge diſtance from her (looking furiouſly about her all the while) till at laſt ſhe ceaſt <hi>Vomiting,</hi> and it turn'd to <hi>Purging,</hi> and then ſhe took her <hi>Chamber Pot</hi> and us'd it; the which, I caus'd the Man to fetch away, (after ſhe had ſet it down) that we might ſee it, but I never ſaw ſuch a <hi>Stool</hi> before; for it was as <hi>Black</hi> as a <hi>Chimney Stock,</hi> a perfect ſign of <hi>Me<g ref="char:EOLhyphen"/>lancholly,</hi> or <hi>Madneſs.</hi> And in ſhort, Thus he continued giving her this ſame <hi>Liquor,</hi> and in a very ſhort time, ſhe perfectly recovered her <hi>Right Sences,</hi> and that very <hi>Harveſt,</hi> ſhe went a <hi>Gleaning</hi> among her Neighbours, as <hi>Senſibly</hi> and <hi>Quietly,</hi> as any of them, and ſo continued.</p>
+                  <p>This Story is as well worth Noteing, as any of the former, and as well worth the Enquiring into, if any be doubtful of the real truth thereof, there are particulars enough to find it out.</p>
+               </div>
+               <div type="section">
+                  <head>Of the French POX.</head>
+                  <p>IN this Story of the <hi>High French Pox,</hi>
+                     <note place="margin">The Eighth-Story.</note> I muſt be excus'd, in that I no<g ref="char:EOLhyphen"/>minate no Perſon, ſave only a luſtly <hi>Young Man,</hi> of a <hi>Vigorous, Strong, Lively, Brisk</hi> and <hi>Active Temper,</hi> &amp;c. It being too great a <hi>Reflection</hi> upon his <hi>Reputation,</hi> to give any hints towards his being thus known; I ſhall therefore only tell you, how that he was <hi>Miſerably Tormented</hi> with this <hi>Foul Diſeaſe,</hi> and how ſoon he was Cured.</p>
+                  <p>
+                     <pb n="15" facs="tcp:153249:11"/>He was infected with it from <hi>Head</hi> to <hi>Foot,</hi> broaken out in <hi>Head, Arms, Privities</hi> and <hi>Legs,</hi> &amp;c.</p>
+                  <p>It had brought him ſo <hi>deplorably Weak,</hi> that he could ſcarcely go up a pair of <hi>Stairs</hi> without Fainting or Swounding away.</p>
+                  <p>The Truth is, It was dangerous for any one to come near him, nor did any body Officiate in his Cure but himſelf. I gave him this thing freely with exact <hi>Directions,</hi> how to uſe it, which he very carefully follow'd, and in a ſhort time, (Firſt, by taking it inwardly, in the Nature of <hi>Phyſick,</hi> and then by outward <hi>Waſhings</hi> and <hi>Bathings</hi> of his <hi>Soars</hi> and other ſwell'd <hi>Parts,</hi> &amp;c. till he was ſo perfectly <hi>Cur'd,</hi> that a while after meeting him in the Street, and asking him how he did, he <hi>Rejoycingly</hi> told me, (in theſe following Words, clapping his Hand on his Breaſt) <hi>That he thought he was as ſtrong as a Horſe, and ſo continued.</hi>
+                  </p>
+                  <p>This is as true a <hi>Story</hi> as any of the former, and as true as ever any was told by any Man.</p>
+                  <p>Here are but few Stories (of a great many which I could ſet down) to ſhow and prove the admired <hi>Vertues</hi> of This <hi>Rare thing;</hi> and if theſe few will not ſuffice to ſatisfy, concerning the <hi>Reality</hi> of what I have thus far Declar'd, more would be needleſs; therefore I ſhall forbear to Nominate any other.</p>
+                  <q>
+                     <p>Theſe Eigth <hi>Stories</hi> are well worth <hi>Obſervation</hi> in This Particular, eſpecially, <hi>viz.</hi> in that they are each of Them of a different and various kind.</p>
+                     <p>The firſt, the <hi>Plague;</hi> the ſecond, the <hi>Leproſie;</hi> the third, <hi>Yallow Jaundice, Obſtrustion</hi> and <hi>Monthly Viſits;</hi> the forth, a <hi>Dead Child Re<g ref="char:EOLhyphen"/>ſtor'd;</hi> the fifth, a <hi>Deep Conſumption;</hi> the ſixth, a <hi>Sore Breaſt;</hi> the ſe<g ref="char:EOLhyphen"/>venth, <hi>Madneſs;</hi> the eighth, the <hi>High French Pox;</hi> by all which you may plainly ſee, the <hi>Powerful</hi> and <hi>Effective Force,</hi> and the Univerſality of this <hi>Active Medicine.</hi>
+                     </p>
+                     <p>And by which it may very eaſily be conceiv'd, That no other Di<g ref="char:EOLhyphen"/>ſeaſe can ſtand in its <hi>Way,</hi> or fail to be <hi>Cur'd,</hi> where This <hi>Tincture</hi> is rightly us'd or apply'd; for all, or moſt other <hi>Diſeaſes</hi> may well be ſaid to be comprehended under Theſe eight great <hi>Grievances,</hi> (for <hi>Omne majus contenet in ſe minus</hi>) ſo that cure Theſe; doubt not of cureing any of a lower <hi>Rank</hi> or <hi>Quality,</hi> therefore conclude it, (not only an, but) The <hi>
+                           <g ref="char:V">Ʋ</g>niverſal Medicine</hi> of <hi>
+                           <g ref="char:V">Ʋ</g>niverſals,</hi> in a Phyſical way. It never fails ſuddainly to cure any ſort of <hi>Ague</hi> whatever.</p>
+                  </q>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e ſingular Quality (by all that take it) it is obſerv'd to have, <hi>viz.</hi>
+                     <note place="margin">A ſingular Quality, con<g ref="char:EOLhyphen"/>ſtant to this Medicine.</note> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ways leaves them with a <hi>Hungry Appetite</hi> to <hi>Meat</hi> (which ſeldom is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ound in moſt other <hi>Phyſicks</hi>) and is That, which ſhows the true Effects of its <hi>Operations,</hi> viz. <q>That the Stomach is <hi>Rectifi'd,</hi> the which is no ſmall Commendations of the <hi>Phyſick;</hi> for as the <hi>Stomach</hi> is well or ill affected, ſo (conſtantly) is the whole <hi>Body;</hi> for in It, all our Nouriſhment is determin'd either for our <hi>Health</hi> or <hi>Sickneſs,</hi> wherefore This very One, on<g ref="char:EOLhyphen"/>ly Commendation (if it had no more) is enough to Magnify it above all others commonly uſed.</q>
+                  </p>
+                  <p>I will therefore now Conclude this firſt Part, treating of the firſt <hi>
+                        <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Medicine,</hi> ſpecify'd in the Title Page, <hi>viz.</hi> Thus, <hi>The Firſt the Worſt.</hi>
+                  </p>
+               </div>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="2" type="part">
+               <pb n="16" facs="tcp:153249:12"/>
+               <head>PART. II.</head>
+               <div n="1" type="chapter">
+                  <head>CHAP I. <hi>Treating of the ſecond</hi> Univerſal Medicine, <hi>which is no Phyſical</hi> Medicine, <hi>but</hi> Natural; <hi>and is the Beſt of the Two, as ſhall appear by what follows.</hi>
+                  </head>
+                  <p>ALthough I have in the firſt part ſpoken ſo many <hi>Great Truths</hi> con<g ref="char:EOLhyphen"/>cerning the juſt and deſerved Praiſe of That <hi>Moſt Excellent Medi<g ref="char:EOLhyphen"/>cine,</hi> of all <hi>Phyſical Medicines,</hi> and do really believe, that no one <hi>Phyſical Medicine,</hi>
+                     <note place="margin">The reaſon of a juſt Prefer<g ref="char:EOLhyphen"/>rance.</note> can be compared unto it in That reſpect; yet I do far prefer the <hi>Natural <g ref="char:V">Ʋ</g>niverſal Medicine</hi> before It, becauſe, that That which is <hi>Natural,</hi> is ever to be Preferred before That, which is <hi>Artificial.</hi>
+                  </p>
+                  <p>For <hi>Nature,</hi> being God's <hi>Principal Work-man</hi> (as may be ſo ſaid) She never Errs, nor can ſhe do any thing amiſs; Her ways are <hi>Plain, Perfect</hi> and <hi>Eaſie; Gentle, Sweet</hi> and <hi>Quiet; Cortain, Abſolute</hi> and <hi>Compleat,</hi> if ſhe be not interrupted, <hi>&amp;c.</hi>
+                  </p>
+                  <p>So that whoſoever follows the <hi>Rules</hi> and <hi>Dictates</hi> of <hi>Nature,</hi> cannot do amiſs, but muſt needs live Happily in their <hi>Health,</hi> (for That's the <hi>Theam</hi> we are now upon) and it will hold good in all other things (in <hi>Nature</hi>) whatever.
+<note place="margin">What may well be judg'd one of God's Prede<g ref="char:EOLhyphen"/>ſtinate Purpo<g ref="char:EOLhyphen"/>ſes.</note>
+                  </p>
+                  <p>
+                     <hi>Nature</hi> being God's <hi>Faithful Servant,</hi> does all His appointments <hi>Faith<g ref="char:EOLhyphen"/>fully</hi> and moſt <hi>Exactly,</hi> even according to His <hi>Secret Determination;</hi> and ſure That may be look'd upon as One, if not the Main <hi>Predeſtinate purpoſe of God.</hi>
+                  </p>
+                  <p>We often have the word <hi>Nature</hi> in our <hi>Mouths,</hi>
+                     <note place="margin">
+                        <hi>What may be underſtood by the word</hi> Na<g ref="char:EOLhyphen"/>ture.</note> but few of us do conſi<g ref="char:EOLhyphen"/>der, or underſtand what it is, or how, <hi>&amp;c.</hi>
+                  </p>
+                  <p>If I ſhould ſay, that <hi>Nature</hi> is God's <hi>own Opperating,</hi> it cannot any way <hi>Derogate</hi> from the <hi>Adorable Honour</hi> which is <hi>Due to God.</hi>
+                  </p>
+                  <p>He that ſhall <hi>Studiouſly, Seriouſly</hi> and Conſiderately ponder the var<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <hi>Manners</hi> and <hi>Ways</hi> of <hi>Nature's</hi> ſubtle and ſtupendious <hi>Opperations,</hi> in the production of <hi>Millions</hi> of <hi>Millious,</hi> &amp;c. <hi>(ad infinitum)</hi> of various Varieties of things, he muſt needs be <hi>Confounded,</hi> if he thinks they be otherwiſe produced, <hi>than by God Himſelf,</hi> (the moſt wiſe Infinite.)</p>
+                  <p>Although God gives (or ſuffers us to give) Names to His <hi>Attribute</hi> or <hi>Opperations,</hi> &amp;c. and to give us leave to call His chief Opperator <hi>(Nature)</hi> in regard He knows, how we are <hi>Deprav'd</hi> from our <hi>Firſt Original <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding,</hi> and <hi>Right Capacity,</hi> and that in our <hi>Preſent State,</hi> we are now in<g ref="char:EOLhyphen"/>volv'd, we ſee like blind <hi>Moles,</hi> and are uncapable of diſcerning <hi>God aright,</hi>
+                     <pb n="17" facs="tcp:153249:12"/>in, or by any of his opperative <hi>Works,</hi> as we might or ſhould have done, had we continued ſteadfaſt in our <hi>Primitive</hi> and pure <hi>Capacity.</hi> There<g ref="char:EOLhyphen"/>fore (out of His Compaſſionate <hi>Condeſcention,</hi> and great <hi>Patience</hi> to us) He ſuffers us to call Things by their wrong Names, and to underſtand them with a half underſtanding (if with ſo much.)</p>
+                  <p>
+                     <hi>Nature,</hi> is God Himſelf, opperating Miſtically and Magically;
+<note place="margin">
+                        <hi>What is</hi> Na<g ref="char:EOLhyphen"/>ture.</note> for if God were not <hi>Preſent</hi> in <hi>Nature,</hi> or <hi>Nature Preſent</hi> in God, <hi>Nature</hi> could not produce a <hi>Fly,</hi> &amp;c. It being the very Inſtrument (as we may ſay) in God's Hand, by which He produceth His Admired Wonderful Works.</p>
+                  <p>Therefore (ſurely) when, and whereſoever we Offend and croſs <hi>Na<g ref="char:EOLhyphen"/>ture</hi> in her opperative <hi>Courſe,</hi> Then and There we Offend and croſs <hi>God;</hi> (although yet God cannot be ſaid, to be either <hi>Offended</hi> or <hi>Croſs'd</hi>) yet He ſuffers us to uſe ſuch <hi>Words,</hi> when we Offend or Croſs, either <hi>Nature</hi> or our ſelves, and thereby (Conſequently) receive juſt Puniſhment for ſuch our <hi>Great Defaults,</hi> by <hi>Sickneſſes, Diſeaſes,</hi> and all manner of <hi>Vex<g ref="char:EOLhyphen"/>atious Turmoiles</hi> and <hi>Afflictions,</hi> which are <hi>Primarily The Effects of Our Sin,</hi> &amp;c. and ſo Conſequently of all other <hi>Our Woes.</hi>
+                  </p>
+                  <p>Now Here, in <hi>This very Place,</hi> are we to Search and Look for,
+<note place="margin">
+                        <p>The very place where the Beſt <g ref="char:V">Ʋ</g>niverſal Me<g ref="char:EOLhyphen"/>dicine is to be had.</p>
+                        <p>Its Name.</p>
+                     </note> and to find <hi>The <g ref="char:V">Ʋ</g>niverſal Medicine of All <g ref="char:V">Ʋ</g>niverſals;</hi> we need not go far off to ſeek It, or find It, or pay <hi>Deer</hi> for It, it being cloſe by, and ready at Hand, yea, in every Man's Power, and at his Command; and that you may the better know it, by its Right Name,</p>
+                  <div type="section">
+                     <head>'Tis Call'd Temperance.</head>
+                     <p>And it is to be had every where, at any place you come at; and 'tis Good for <hi>All Sorts</hi> of Men, Women and Children,
+<note place="margin">Its Excellen<g ref="char:EOLhyphen"/>cies.</note> and for moſt <hi>Diſeaſes</hi> you can <hi>Name;</hi> and likewiſe, a moſt certain <hi>Preventor</hi> of All the chief <hi>Di<g ref="char:EOLhyphen"/>ſeaſes,</hi> and <hi>Sickneſſes</hi> incident to Mankind; ſo that now, although I have Commended the former <hi>
+                           <g ref="char:V">Ʋ</g>niverſal Medicine</hi> for the cheapeſt of All <hi>Phyſi<g ref="char:EOLhyphen"/>cal Medicine,</hi> &amp;c.</p>
+                     <p>Yet This, has far the <hi>Preheminency</hi> of That for <hi>Cheapneſs;</hi> for though That was <hi>Cheap,</hi> yet it would coſt ſomething, but <hi>This will coſt you No<g ref="char:EOLhyphen"/>thing;</hi> yea, <hi>This will ſave you much Coſt:</hi> We muſt therefore Prefer This to be <hi>The Very, Very, Beſt</hi> of <hi>Beſts</hi> (if you can admit of ſuch a Compa<g ref="char:EOLhyphen"/>nion.)</p>
+                     <p>But I am Doubtful, becauſe it is ſo <hi>Very Very Cheap,</hi> and ſo very eaſie to be obtain'd, there are more than a great many will undervallue It, and give it no Entertainment.</p>
+                     <p>For, the Old Proverb is moſt truely Practis'd, <hi>viz. Far Fetcht,</hi> and <hi>Dear Bought</hi> is fit for <hi>Ladies</hi> and other <hi>Ignorant People</hi> of all ſorts; who, although the <hi>Thing</hi> be never ſo <hi>Slight</hi> or <hi>Silly,</hi> yet if it come from <hi>France,</hi> or out of any other <hi>Remote Region,</hi> and alſo <hi>Dear,</hi> &amp;c. it muſt then needs be Val<g ref="char:EOLhyphen"/>lued and Purchaſed by all means at any Rate.</p>
+                     <p>Whereas, (one the contrary) Things near Hand, and low Priz'd, tho' never ſo <hi>Good,</hi> and Worthy of due <hi>Praiſe,</hi> &amp;c. are moſt what <hi>
+                           <g ref="char:V">Ʋ</g>ndervallued</hi> by ſuch <hi>
+                           <g ref="char:V">Ʋ</g>n-underſtanding Ignorants;</hi> yet, ſome there are, <hi>Wiſer</hi> than other ſome, and to ſuch as thoſe, This Down-right plain Diſcourſe may be of <hi>Good <g ref="char:V">Ʋ</g>ſe,</hi> if they will give a little heed unto it, and ſollidly conſider the <hi>Rea<g ref="char:EOLhyphen"/>ſons</hi> therein Contain'd, no doubt, but they may find <hi>Great Benefit thereby.</hi> And now to the Medicine it ſelf.</p>
+                  </div>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="18" facs="tcp:153249:13"/>
+                  <head>CHAP. II. <hi>The Deſcription of the</hi> Medicine <hi>it ſelf is Short and Eaſie, and no difficulty at All in its Uſe.</hi>
+                  </head>
+                  <p>I Told you it was <hi>Temperance,</hi>
+                     <note place="margin">
+                        <hi>Three Rules belonging to</hi> Temperance.</note> which muſt be conſidered in three <hi>Particu<g ref="char:EOLhyphen"/>lar Things</hi> only. The Firſt, is <hi>Food;</hi> the Second, is <hi>Labour;</hi> the Third, is <hi>Reſt;</hi> all three muſt be perform'd with <hi>Moderation</hi> and <hi>Temperance.</hi>
+                  </p>
+                  <p>Some Few and <hi>Eaſie Rules</hi> are here following.</p>
+                  <p>The firſt Rule (as to <hi>Food</hi>) is but this:
+<note place="margin">
+                        <hi>The firſt Rule as to</hi> Food.</note> 
+                     <hi>Eate</hi> and <hi>Drink</hi> Sparingly, that is, never to <hi>Satiety</hi> or <hi>Fullneſs,</hi> but ever leave off with an <hi>Appetite,</hi> and in ſo doing, you give no Occaſion for <hi>Sickneſs,</hi> in that particular. For by That <hi>Means, Nature</hi> can never be Oppreſt with more <hi>Work</hi> then She is able to <hi>Perform;</hi> and when <hi>Nature</hi> is thus Reaſonably imploy'd, <hi>She</hi> joyeth in her <hi>Work,</hi> and performs it Perfectly and with Eaſe; Whereas, on the contrary, <hi>Immoderate Eating</hi> and <hi>Drinking</hi> overloads <hi>Nature,</hi> even as an inconſiderate Man, who laying more Load upon his <hi>ſtrong Horſe</hi> then the <hi>Horſe</hi> is able to Bear, wears out the Strength of his <hi>Horſe,</hi> &amp;c. And juſt ſo it is with <hi>Gormendizing Men</hi> and <hi>Women,</hi> who Cram down more into their <hi>Stomachs,</hi> then <hi>Nature</hi> can Bear, or Deal with; and then, they muſt needs be <hi>Sick;</hi> for <hi>Sickneſs</hi> cannot properly be ſaid to be any thing elſe, but <hi>Na<g ref="char:EOLhyphen"/>ture Oppreſſed;</hi> therefore keep your ſelf within <hi>This Eaſie Moderate Rule of Food,</hi> and you may be ſure to Live <hi>Healthfully</hi> and <hi>Pleaſantly;</hi> If, in the ſecond Place, you obſerve <hi>Temperance</hi> in your <hi>Exerciſe</hi> or <hi>Labour</hi> alſo; and as to <hi>That,</hi> there need not be many <hi>Words,</hi> or <hi>Rules,</hi> One General <hi>Rule</hi> may ferve for all, which is,</p>
+                  <p>Never to oppreſs <hi>Nature,</hi>
+                     <note place="margin">The ſecond Rule as to La<g ref="char:EOLhyphen"/>bour.</note> by over <hi>Violent,</hi> or over long <hi>Labour,</hi> or <hi>Ex<g ref="char:EOLhyphen"/>erciſe,</hi> at any <hi>Imployment</hi> whatever, <hi>viz.</hi> at <hi>Sport, Work,</hi> or <hi>Play;</hi> but let it always End with <hi>Moderation,</hi> and ſo, <hi>That</hi> when you have left off, you can perceive an <hi>Aptitude,</hi> and a <hi>Senſible Ability</hi> of ſtill performing More with the ſame <hi>Vigour</hi> and <hi>Courage,</hi> as you began with: And in ſo doing, you cannot be ſaid to injure or impedite <hi>Nature,</hi> in Her chief <hi>Work,</hi> of your own <hi>Chiefeſt Concern,</hi> viz. Your <hi>Health:</hi> But much rather may be ſaid to do Her a <hi>Kindneſs,</hi> in aſſiſting Her, and inabling Her, the more Eaſily to perform Her own Work the more <hi>Vigorouſly;</hi> for <hi>Labour</hi> or <hi>Exerciſe,</hi> is as Neceſſary to a <hi>Tranquil Life,</hi> as <hi>Food</hi> it ſelf, yea, and much more too. For although <hi>Food</hi> be neceſſary to maintain Life, yet without <hi>Labour</hi> or <hi>Exerciſe,</hi> it makes a <hi>Dull, Heavy, Blockiſh, Sottiſh</hi> or <hi>Swiniſh</hi> Body, ſel<g ref="char:EOLhyphen"/>dom long without <hi>Sickneſs</hi> or <hi>Diſeaſe,</hi> and ſure enough, a <hi>Short Life ends All:</hi> Therefore moderate <hi>Labour</hi> is a moſt <hi>Neceſſary Appurtenance</hi> to a <hi>Hap<g ref="char:EOLhyphen"/>py Life.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſt</hi> and <hi>Sleep,</hi>
+                     <note place="margin">
+                        <hi>The third Rule as to</hi> Sleep.</note> is the <hi>Third Particular Thing</hi> needful to be Regarded with <hi>Moderation,</hi> as conducing much to a <hi>Healthful</hi> and <hi>Pleaſant Life;</hi> but if it be taken in <hi>Exceſs,</hi> (Eſpecially by Young People) it makes them
+<pb n="19" facs="tcp:153249:13"/>
+                     <hi>Laſie, Dull-Doults,</hi> as to any <hi>Activity</hi> of Mettle-ſome or ſmart <hi>Agitation,</hi> and commonly <hi>Lecherous</hi> into the Bargin, <hi>&amp;c.</hi> And if they be <hi>Great Eaters</hi> and <hi>Drinkers</hi> alſo, it Puffs <hi>Them</hi> up to <hi>Corpulency</hi> and <hi>foul Humours,</hi> ſo that ſcarce One in Ten Thouſand ſuch, live half their Days, which otherwiſe they might (by the <hi>Strength</hi> of <hi>Nature</hi>) do,
+<note place="margin">Who are moſt ſubject to In<g ref="char:EOLhyphen"/>festious Di<g ref="char:EOLhyphen"/>ſeaſes, and a ſhort Life.</note> their Bodies being apt to receive the <hi>Malignity</hi> of any <hi>Infectious Air,</hi> or other catching <hi>Diſeaſes,</hi> as are at any time a Foot; and if none ſuch be generally Abroad, they fall not to Breed them in themſelves. <hi>Diſeaſes</hi> always are taken or Hatcht in <hi>foul Bodies;</hi> no Man (I believe) ever ſaw a Puft Swagging Fat, Laſie perſon, live long, that were <hi>Intemperate</hi> and <hi>Regardleſs</hi> in theſe Three <hi>Par<g ref="char:EOLhyphen"/>ticulars</hi> laſt mention'd; therefore it concerns ſuch Men and Women, Eſpe<g ref="char:EOLhyphen"/>cially to take Good Notice of what I have thus far Writ, towards the Well-being of all ſorts of Conſtitutions, <hi>&amp;c.</hi>
+                  </p>
+                  <div type="section">
+                     <head>
+                        <hi>The many</hi> Benefits <hi>which will Ariſe from This Rare Thing,</hi> viz. <hi>The</hi> Engliſh PROTESTANT-PRIEST'S POWDER: (<hi>Or, The firſt of theſe two</hi> Univerſal Medicines) <hi>For whomſoever can be ſo</hi> Happily Fortunate, <hi>as to be Poſſeſſor But of</hi> One Ounce, <hi>yea, or but</hi> Half an Ounce <hi>thereof, He has a</hi> Treaſure beyond the Golden Mounts of That talk'd of <hi>PHYLOSO<g ref="char:EOLhyphen"/>PHERS STONE.</hi>
+                     </head>
+                     <q>
+                        <p>FOR <hi>Firſt,</hi> He may <hi>Preſerve</hi> himſelf in <hi>Health,</hi>
+                           <note place="margin">The many Be<g ref="char:EOLhyphen"/>nefits attend<g ref="char:EOLhyphen"/>ing This Rare Thing.</note> or procure <hi>Health</hi> out of the worſt of <hi>Sickneſſes</hi> (Cureable) and Live to a <hi>GOOD OLD AGE.</hi>
+                        </p>
+                        <p>
+                           <hi>Secondly,</hi> If any Perſon have taken <hi>Poiſon,</hi> one Doſe of <hi>This Infuſed Liquor</hi> being taken in Time, will moſt certainly Expell That <hi>Poiſon.</hi>
+                        </p>
+                        <p>
+                           <hi>Thirdly,</hi> For its <hi>Opperations</hi> work, in all manner of needfull ways, for the Expelling of <hi>Foul Humours</hi> out of the Body, <hi>viz.</hi> By <hi>Vomit, Purge, Gliſter,</hi> or <hi>Sweet,</hi> the four Chief Ways of Cleanſing the whole Body, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Forthly,</hi> One <hi>Quarter of an Ounce</hi> of <hi>This Powder,</hi> is a ſufficient <hi>Stock</hi> (for Ordinary Uſes, <hi>viz. Vomits, Purges,</hi> &amp;c.) for any <hi>One Perſon,</hi> During his whole Life, <hi>and his Friend's Life after Him,</hi> &amp;c. But if there be Need of Outward <hi>Bathings,</hi> for <hi>Curing of Pains, Aches,</hi> &amp;c. Then there muſt be more <hi>Powder</hi> to the making of ſuch <hi>Baths,</hi> &amp;c.</p>
+                        <p>
+                           <hi>Fifthly,</hi> Whoever has <hi>This Powder,</hi> need <hi>Never to be at a Penny Charge</hi> at any Time, for the <hi>Giving a Vomit, Purge or Gliſter,</hi> &amp;c. ſo long as he <hi>Lives.</hi>
+                        </p>
+                        <p>
+                           <hi>Sixthly,</hi> He may be <hi>Charitable to any Poor Sick Body at this eaſie Charge at any Time;</hi> and who would not be Willing, yea, Glad to do ſuch <hi>Chriſtian Good-Turns to the</hi> Needy <hi>and</hi> Poor?</p>
+                        <p>
+                           <hi>Seventhly, It is always Ready at Hand</hi> upon any needful Occaſion, or ſuddain Accident, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <pb n="20" facs="tcp:153249:14"/>
+                           <hi>Eightly,</hi> Whoever has a Mind to be a <hi>Phyſician, He</hi> need but ſtock Himſelf with a convenient Quantity of <hi>This Powder,</hi> with the which, (and the <hi>Directions</hi> that go along with it) He may <hi>Safely venter at the Cure of moſt Common Diſeaſes attending Mankind.</hi>
+                        </p>
+                        <p>
+                           <hi>Ninthly,</hi> Although He lives <hi>Remote,</hi> far from <hi>Phyſicians,</hi> He need not ſend <hi>Man</hi> and <hi>Horſe,</hi> Five, Ten, or Twenty Miles for a <hi>Doctor,</hi> or for <hi>Phyſick.</hi>
+                        </p>
+                        <p>
+                           <hi>Tenthly,</hi> If in every <hi>Town,</hi> or <hi>Pariſh</hi> throughout the <hi>Nation,</hi> there were <hi>Provided</hi> a Convenient Stock of <hi>This Powder,</hi> which ſhould always be in the <hi>Cuſtody of the Miniſter,</hi> for the <hi>General Relief of the Poor Sick of the Pariſh,</hi>
+                           <note place="margin">An <g ref="char:V">Ʋ</g>naccoun<g ref="char:EOLhyphen"/>table Benefit to the whole Na<g ref="char:EOLhyphen"/>tion</note> they might keep Their <hi>Poor Generally in Health;</hi> The which doing, would be a <hi>Conſiderable, and an <g ref="char:V">Ʋ</g>naccountable Benefit to the Whole Nation.</hi> For if <hi>Poor People</hi> were free from <hi>Sickneſs,</hi> &amp;c. the <hi>Pa<g ref="char:EOLhyphen"/>riſhioners</hi> would be the more Free from Charge of Maintaining them, <hi>&amp;c.</hi> This one Thing is worth ſerious Conſideration.</p>
+                     </q>
+                     <p>Here are but Ten Conveniencies Expreſſed, but they will find many more not eaſily Thought upon at preſent.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Concerning</hi> ASTROLOGY, <hi>and its Excellent Uſe in</hi> Phy<g ref="char:EOLhyphen"/>ſick, <hi>&amp;c. With a Notable Story thereupon Depending,</hi> &amp;c.</head>
+                     <p>THere is no Noble Art under the <hi>Sun,</hi> ſo much <hi>Boggl'd</hi> at by many, as is <hi>The Art of Aſtrology;</hi> and every <hi>Horſe-man</hi> knows what the Cauſe of a Horſe Boggling is, <hi>viz. Fearfulneſs,</hi> caus'd by the <hi>Ignorance</hi> of the <hi>Horſe,</hi> his not knowing <hi>What the Object is,</hi> which cauſeth him to <hi>Stare and Winch</hi> thereat; even ſo it is by moſt, who have ſuch <hi>Frightful and Auke Apprehenſions</hi> of <hi>That Excellent and very uſeful Science.</hi> The which, if it were <hi>Rightly, Honeſtly</hi> and <hi>Religiouſly</hi> made uſe of, would be of ex<g ref="char:EOLhyphen"/>ceeding <hi>Beneficial <g ref="char:V">Ʋ</g>ſe in many of our Affairs,</hi> but more Eſpecially, <hi>in Phyſi<g ref="char:EOLhyphen"/>cal and Chyrurgical Occaſions or Opperations;</hi> and not only ſo, But alſo <hi>High<g ref="char:EOLhyphen"/>ly Advantageous to Man, in his Inward and Spiritual Contemplations and Conſi<g ref="char:EOLhyphen"/>derations,</hi> concerning the <hi>Wonderful</hi> and <hi>Myſterious Works of God,</hi> and of His Infinite <hi>Wiſdom</hi> and <hi>Power.</hi>
+                     </p>
+                     <p>I do acknowledge, I am not a fit Advocate, to Plead its Cauſe as it ſhould be, or a fit Champion to Defend it, as it ought to be; But Thus much I can ſay in its behalf; <hi>viz.</hi> That whereas formerly, in <hi>Ignorance,</hi> I was (as moſt are) a <hi>Jeerer</hi> or <hi>Fleerer</hi> of it, <hi>&amp;c.</hi> and thoſe that us'd it. But by Accident, I met with one of Their Books, which Treated of the <hi>Rudiments</hi> of <hi>That Art.</hi>
+                     </p>
+                     <p>The Book was a little Quarto Book, of One <hi>Darriot,</hi> and (to pleaſe my Curioſity) I Read it over, and took Notes of the <hi>Chief Particulars</hi> in it, which were concerning the very Rudiments of <hi>The Art</hi> (very Plain and Eaſie) and finding <hi>Them</hi> to be ſo <hi>Rational</hi> and <hi>Harmleſs,</hi> &amp;c. I was reſol<g ref="char:EOLhyphen"/>ved to Enable my ſelf (from <hi>Thoſe Rules</hi>) to Learn to ſet a Figure of the Heavens; and from thence to make ſome Tryal of the <hi>Verity</hi> of <hi>That Art,</hi> which indeed at That time was the utmoſt of my deſires or intent therein,
+<pb n="21" facs="tcp:153249:14"/>and in a ſhort Time after, I became Able to Set a Figure, <hi>&amp;c.</hi> And not long after <hi>That,</hi> I met with a fit Oppertunity, both to try my Skill, and alſo to ſatisfy my ſelf, concerning <hi>The Verity of the Art,</hi> which was thus:</p>
+                     <p>It happened,
+<note place="margin">An Eminent Story.</note> that I was at an intimate <hi>Friend's Houſe</hi> (a Miniſter) who both <hi>Himſelf,</hi> and his <hi>Wife,</hi> were utter Enemies to <hi>This Art;</hi> and whilſt I ſtai'd There (which was ſome Weeks) there was a <hi>Child</hi> Born in the Nei<g ref="char:EOLhyphen"/>bourhood, and this my <hi>She Friend</hi> was at the <hi>Birth</hi> of That <hi>Child;</hi> ſo when She came <hi>Home,</hi> I ask'd her the <hi>Time of the Child's Birth,</hi> the which, She told me Exactly; I then ask'd her, How all was with the <hi>Birth,</hi> viz. Both with the Mother and Child? She Anſwered, <hi>All was very well and Hopeful,</hi> &amp;c. So then (I being glad of ſo fit and proper an Oppertunity for <hi>Proving the Verity of the Art,</hi> I went into my <hi>Study,</hi> and ſet a <hi>Figure</hi> of That Child's <hi>Nativity,</hi> and it was the Firſt that ever I ſet to make a Tryal of <hi>The Art;</hi> and therefore I endeavour'd to be as Exact as Poſſibly I could, by <hi>The Rules of the Art</hi> which they give.</p>
+                     <p>And when I had done, I began to Examine the <hi>Figure</hi> by <hi>Thoſe Rules,</hi> in each particular: The firſt <hi>Thing</hi> I did, was to ſee whether the Child was likely to Live or no.</p>
+                     <p>But, to be ſhort, all the <hi>Rules for Life</hi> were abſolutely againſt the Child, yea, very <hi>Diſmally Sad;</hi> inſomuch, That (if their Rules were <hi>True</hi>) the Child could <hi>not Live long.</hi>
+                     </p>
+                     <p>Whereupon, I was very much <hi>Amus'd,</hi> becauſe of the Relation my <hi>She Friend</hi> gave me of the <hi>Hopefulneſs</hi> of the Contrary, <hi>&amp;c.</hi> So that I began to Suſpect my own <hi>
+                           <g ref="char:V">Ʋ</g>nskillfulneſs</hi> in the ſetting of the Figure, being it was my Firſt attempt in That Kind.</p>
+                     <p>So I went into my Study and Examin'd my Figure Over and Over again, to try where the Fault lay; for I thought it lay in my Figure I ſet; but when I had wearied my ſelf ſufficiently in ſo doing, and could find <hi>no Fault</hi> in ſetting the Figure, I was Confirm'd, that <hi>That Child could not live long.</hi> And ſo I came forth, and ſhew'd my two <hi>Loving Friends</hi> what I had done, <hi>&amp;c.</hi> and gave my <hi>Judgment</hi> accordingly; but <hi>They</hi> Smil'd at it, in an ordinary Slighting way, <hi>&amp;c.</hi> and ſo it reſted a while.</p>
+                     <p>Then after Dinner, I went and ſet the Figure of the <hi>Mother</hi> of That <hi>Child,</hi> becauſe I had a great mind (upon ſuch certain <hi>Radical Terms</hi> as then I had, concerning the <hi>Punctuallity of the Time,</hi> &amp;c.) to ſee what was likely to be<g ref="char:EOLhyphen"/>come of the <hi>Mother</hi> as well as of the <hi>Child;</hi> and, in ſhort; I found the <hi>Mo<g ref="char:EOLhyphen"/>ther</hi> as Deſperately in <hi>Danger of Death</hi> as the <hi>Child,</hi> according to the Rules the Learned in That Science have left upon <hi>Record.</hi> Whereupon I came forth again to my two <hi>Antagoniſts,</hi> and told them what I had found con<g ref="char:EOLhyphen"/>cerning the <hi>Mother</hi> (as aforeſaid,) but they Laught on (as before, <hi>&amp;c.</hi>) ſo then we were to wait to ſee the Iſſue, what would follow hereupon, which (in ſhort) was Thus, <hi>viz.</hi>
+                     </p>
+                     <p>That within a Week or ten Days, <hi>Both Child and Mother were Dead,</hi>
+                        <note place="margin">The Iſſue of the whole ſtory.</note> whereupon my two Friends were forc'd to put on another kind of Counte<g ref="char:EOLhyphen"/>nance; I told them, I was <hi>no Witch,</hi> but a meer <hi>Young Novice</hi> in <hi>That Art,</hi> and what I had Predicted, was not <hi>my Own,</hi> but what I found Recor<g ref="char:EOLhyphen"/>ded from known Experience; and from the <hi>Rules of Art</hi> which are, That if: Such and Such <hi>Poſitions</hi> of <hi>The Stars and Planets</hi> were So and So in any Na<g ref="char:EOLhyphen"/>tivity
+<pb n="22" facs="tcp:153249:15"/>at the <hi>Hour</hi> or <hi>Moment</hi> of <hi>Birth,</hi> Such and Such Conſequences would undoubtedly Follow, either for <hi>Good</hi> or for <hi>Bad,</hi> &amp;c. the which moſt ex<g ref="char:EOLhyphen"/>actly came to paſs with <hi>This Mother</hi> and <hi>Her Child.</hi>
+                     </p>
+                     <p>This is as true a Story as ever was Told, and was ſo convincing to me at that Time, as alſo by divers Trials ſince Then, as that I have been Confirm'd of the <hi>Verity</hi> of <hi>That Wonderful Admired Art;</hi> and if all the Preten<g ref="char:EOLhyphen"/>ded <hi>Artiſts,</hi> were as Knowing, and as Innocently Honeſt and True, as the Art it ſelf is <hi>Real</hi> and <hi>Infallible;</hi> it would have more <hi>Fidelians</hi> by Multi<g ref="char:EOLhyphen"/>tudes, than at preſent it has. But enough of this.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Some Plain and Eaſie Rules to inſtruct all ſuch who would either Give or take</hi> Phyſick, <hi>ſo as that they may know from the Rules of</hi> That Art, <hi>how to chuſe a Fit and Proper</hi> Seaſon, <hi>ſo that the</hi> Phyſick <hi>may Work more Effectually and Kindly with the</hi> Patient, <hi>than otherwiſe it would do, If given at an Unſeaſonable Time.</hi>
+                     </head>
+                     <p>THE firſt thing to be known, is, The Seven Planets, and their Or<g ref="char:EOLhyphen"/>der, which is Thus, <hi>viz.</hi>
+                     </p>
+                     <list>
+                        <item>The <hi>Firſt</hi> Planet (and the Higheſt) is <hi>Saturn,</hi> Markt thus, ♄</item>
+                        <item>The <hi>Second,</hi> Is <hi>Jupiter.</hi> ♃.</item>
+                        <item>The <hi>Third,</hi> Is <hi>Mars.</hi> ♂.</item>
+                        <item>The <hi>Forth,</hi> Is <hi>Sol</hi> (or the Sun) ☉.</item>
+                        <item>The <hi>Fifth,</hi> Is <hi>Venus.</hi> ♀.</item>
+                        <item>The <hi>Sixth,</hi> Is <hi>Mercury.</hi> ☿.</item>
+                        <item>The <hi>Seventh,</hi> and Loweſt is <hi>Luna.</hi> 
+                           <g ref="char:Moon">☽</g>.</item>
+                     </list>
+                  </div>
+                  <div type="section">
+                     <head>The Second Thing to be known is,</head>
+                     <p>THat theſe ſeven Planets Refer to the ſeven Days of the Week, <hi>viz.</hi> Thus: <hi>Saturn</hi> Refers to <hi>Saturday; Jupiter</hi> to <hi>Thurſday; Mars</hi> to <hi>Tueſ<g ref="char:EOLhyphen"/>day; Sol</hi> to <hi>Sunday; Venus</hi> to <hi>Fryday; Mercury</hi> to <hi>Wedneſday;</hi> and <hi>Luna</hi> to <hi>Monday.</hi> Theſe two Rules, muſt be got readily by Heart.</p>
+                  </div>
+                  <div type="section">
+                     <head>The Third Thing to be known is,</head>
+                     <p>THat every Planet Rules the firſt Hour of his own Day, <hi>viz.</hi> The firſt Hour after <hi>Sun Riſe.</hi>
+                     </p>
+                     <p>The next Planet in Order after him, Rules the next Hour after that, <hi>viz.</hi> The ſecond Hour after <hi>Sun Riſes.</hi>
+                     </p>
+                     <p>And ſo every Planet takes his Hour Orderly, the One after the Other, till the firſt ſeven Hours are run out; and then the firſt Planet again takes
+<pb n="23" facs="tcp:153249:15"/>the Eight Hour, the ſecond Planet the Ninth Hour, the third Planet the Tenth Hour, the forth Planet the Eleventh Hour, and the fifth Planet the Twelfth Hour, <hi>viz.</hi> to <hi>Sun-ſet:</hi> And thus are the Twelve Hours of the Day provided with different and Proper Planets to Rule <hi>Them.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>And now for the Hours of the Night.</head>
+                     <p>THey keep the ſame Order, only you are to <hi>Remember,</hi> where you laſt left off, and let the next Planet to <hi>That,</hi> rule the firſt Hour from <hi>Sun<g ref="char:EOLhyphen"/>ſet,</hi> and ſo carry them in the ſame <hi>Order</hi> (through the 12 Hours of the <hi>Night</hi>) till <hi>Sun-riſe</hi> again; and by That Rule, you'l find the <hi>Proper Planet</hi> for the next day, will come in, to take his proper Hour at <hi>Sun-riſe.</hi>
+                     </p>
+                     <p>One thorough <hi>Example</hi> will make all very Plain,
+<note place="margin">
+                           <hi>A plain Exam<g ref="char:EOLhyphen"/>ple for</hi> Satur<g ref="char:EOLhyphen"/>day.</note> therefore i'll ſet down one for the 24 Hours of <hi>Saturday,</hi> till <hi>Sun-riſe</hi> on <hi>Sunday,</hi> as follows.</p>
+                     <p>
+                        <hi>Saturn</hi> Rules the firſt Hour from <hi>Sun-riſe</hi> on <hi>Saturday,</hi> viz.
+<note place="margin">Note Well.</note> from 6 till 7 a-Clock, (that is, if the <hi>Sun</hi> do not Riſe before, or after 6) which is about the 10th. of <hi>March</hi> or <hi>September.</hi>
+                     </p>
+                     <p>Then from 7 to 8 a Clock, <hi>Jupiter</hi> Rules, from 8 to 9 <hi>Mars,</hi> from 9 to 10 <hi>Sol</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>es, from 10 to 11 <hi>Venus</hi> Rules, from 11 to 12 <hi>Mercury</hi> Rules, and from 12 to One a Clock <hi>Luna</hi> Rules.</p>
+                     <p>Now, <hi>Note,</hi> From One to Two <hi>Saturn</hi> comes in again and Rules, which is the 8th. Hour from <hi>Sun-riſe.</hi>
+                     </p>
+                     <p>Then from 2 to 3 a-Clock <hi>Jupiter</hi> Rules, from 2 to 4 <hi>Mars</hi> Rules, from 4 to 5 <hi>Sol</hi> Rules, and then from 5 to Sun-ſet <hi>Venus</hi> Rules, (thus the 12 Hours of the Day are run out.</p>
+                     <p>Now for the Night, from 6 a-Clock to 7 <hi>Mercury</hi> Rules, from 7 to 8 <hi>Luna</hi> Rules, from 8 to 9 <hi>Saturn,</hi> from 9 to 10 <hi>Jupiter,</hi> from 10 to 11 <hi>Mars,</hi> from 11 to 12 <hi>Sol,</hi> from 12 to 1 <hi>Venus;</hi> from 1 to 2 <hi>Mercury,</hi> from 2 to 3 <hi>Luna,</hi> from 3 to 4 <hi>Saturn,</hi> from 4 to 5 <hi>Jupiter,</hi> from 5 to 6 <hi>Mars,</hi> now from 6 to 7 <hi>Sol;</hi> and here you ſee <hi>Sol</hi> Rules the firſt Hour on <hi>Sun<g ref="char:EOLhyphen"/>day,</hi> as <hi>Saturn</hi> did on <hi>Saturday.</hi>
+                     </p>
+                     <p>Practice thus your ſelf with all the other Days, and you'l find it very Eaſie.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>A</hi> Rule <hi>to know the length of a Planetary Hour, every</hi> 10 <hi>Days, for every Month in the Year.</hi>
+                     </head>
+                     <p>THe firſt 10 Days in <hi>January</hi> 40 Minutes, the ſecond 10 Days 43 Minutes, the laſt 10 Days 46 Minutes.</p>
+                     <p>The firſt 10 Days in <hi>February</hi> 48 Minutes, the ſecond 10 Days 51 Minutes, the laſt 54 Minutes.</p>
+                     <p>
+                        <pb n="24" facs="tcp:153249:16"/>The firſt 10 Days in <hi>March</hi> 58 Minutes, the ſecond 10 Days 60 Minutes (or an Hour,) the laſt 1 Hour 5 Minutes.</p>
+                     <p>The firſt 10 Days in <hi>April</hi> 1 Hour 10 Minutes, the ſecond 10 Days 1 Hour 13 Minutes, the laſt 1 Hour 16 Minutes.</p>
+                     <p>The firſt 10 Days in <hi>May</hi> 1 Hour 19 Minutes, the ſecond 10 Days, 1 Hour 22 Minutes, the laſt 1 Hour 23 Minutes.</p>
+                     <p>The firſt 10 Days in <hi>June</hi> 1 Hour 24 Minutes, the ſecond 10 Days, 1 Hour 24 Minutes, the laſt 1 Hour 23 Minutes.</p>
+                     <p>And now as the Days begin to ſhorten,
+<note place="margin">
+                           <hi>Now begin to ſhorten them Backwards to</hi> January.</note> ſo you muſt ſhorten the Hours proportionably Backwards by Minutes, as you lengthned them by Minutes; and by this Rule, you may aſſure your ſelf of the juſt length of a <hi>Planeta<g ref="char:EOLhyphen"/>ry Hour</hi> for any day in the Year. I need ſay no more as to This.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>This following (Eaſie and Short Way) I drew out at the Requeſt of a</hi> Friend, <hi>who was not willing to take the Pains of Obſerving all the Exactneſſes of Thoſe former Rules, and it may ſerve Tollera<g ref="char:EOLhyphen"/>bly well, with much more Eaſe than the Former.</hi>
+                     </head>
+                     <p>THere are ſix Hours every day in the Year, which may be good to take <hi>Phyſick</hi> in, <hi>viz.</hi> Three in the Morning, and Three in the Afterhoon. And when the Days and Nights are at an Equal Length. <hi>Then Thus:</hi>
+                     </p>
+                     <p>
+                        <hi>Firſt,</hi> On <hi>Sunday,</hi> The firſt 3 Hours begin, from an Hour after <hi>Sun Riſe;</hi> the ſecond 3, from about 2 a Clock Afternoon.</p>
+                     <p>
+                        <hi>Secondly,</hi> On <hi>Monday,</hi> The firſt 3 Hours begin from 2 Hours before <hi>Sun Riſe;</hi> the ſecond 3, from about 11 till 2 Afternoon.</p>
+                     <p>
+                        <hi>Thirdly,</hi> On <hi>Tueſday,</hi> The firſt 3 begin from 2 Hours after <hi>Sun Riſe,</hi> till about 11 a-Clock; the ſecond 3, from about 3 till 6.</p>
+                     <p>
+                        <hi>Forthly,</hi> On <hi>Wedneſday,</hi> The firſt 3 from the Hour before <hi>Sun Riſe,</hi> till 2 Hours after; the third 3, from about 12 till 3.</p>
+                     <p>
+                        <hi>Fifthly,</hi> On <hi>Thurſday,</hi> The firſt 3 from about 9 in the Morning, till a<g ref="char:EOLhyphen"/>bout 12, and from about 4 Afternoon, till about 7.</p>
+                     <p>
+                        <hi>Sixthly,</hi> On <hi>Fryday,</hi> The firſt 3 from <hi>Sun Riſe,</hi> till about 9 a-Clock, and from 1 Afternoon, till about 4.</p>
+                     <p>
+                        <pb n="25" facs="tcp:153249:16"/>
+                        <hi>Seventhly,</hi> On <hi>Saturday,</hi> The firſt 3 from about 10 in the Morning till 1, and from about 5 Afternoon till about 8.</p>
+                     <p>This <hi>Rule</hi> will hold Exactly True, when the Days and Nights are of an <hi>Equal Length;</hi> as in <hi>March</hi> and <hi>September.</hi>
+                     </p>
+                     <p>But as the Days <hi>Lengthen</hi> or <hi>Shorten,</hi> ſo muſt your Planitary Hours <hi>Lengthen</hi> or <hi>Shorten.</hi> Therefore, to be very Exact, you muſt always Di<g ref="char:EOLhyphen"/>vide the Time betwixt <hi>Sun-Riſe,</hi> and <hi>Sun-Setting</hi> into 12 Equal Parts, and every Part is a <hi>Planitary Hour,</hi> be it more or leſs: But if That be too Troubleſome for you, let it ſuffice, that you Obſerve only the aboveſaid <hi>Rule;</hi> and becauſe you have three Hours Good, ever coming together, you cannot miſs of a Tollerable <hi>Good Time;</hi> but to be ſure you will Miſs the <hi>Evil Time,</hi> and That is a <hi>Great Benefit.</hi>
+                     </p>
+                     <p>I could have been more at Large, but becauſe you do not deſire to Trou<g ref="char:EOLhyphen"/>ble your Self, in ſuch <hi>Curiouſneſs,</hi> This may be of <hi>Good <g ref="char:V">Ʋ</g>ſe</hi> unto You,</p>
+                     <closer>
+                        <signed>From Your Loving Friend, T. M.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>The Uſe of a Planetary Hour in</hi> Phyſick, <hi>&amp;c.</hi>
+                     </head>
+                     <p>THe Right uſe is, To chuſe ſuch an Hour to take a <hi>Vomit,</hi> or a <hi>Purge</hi> in, ſo, as that the <hi>Phyſick</hi> may Work kindly with the Patient, and Effectually, <hi>&amp;c.</hi> And it has been Obſerv'd by the <hi>Learn'd,</hi> That if <hi>Phy<g ref="char:EOLhyphen"/>ſick</hi> be given in the Hour of <hi>Saturn</hi> or <hi>Mars,</hi> it will work very <hi>Roughly</hi> and <hi>Painfully</hi> with the Patient; thoſe two Planets being counted In-Fortunes, and in <hi>Phyſick</hi> their Hours always to be Refus'd.</p>
+                     <p>Now there are 2 Planets of a different <hi>Nature</hi> to <hi>Saturn</hi> and <hi>Mars,</hi> which generally are eſteem'd Good, <hi>viz. Venus</hi> and <hi>Luna,</hi> whoſe Hours are to be choſen; they being <hi>Active, Cool, Gentle</hi> and <hi>Moiſt</hi> Planets, and do cauſe the <hi>Humours</hi> in the Body to be more <hi>Flued</hi> and <hi>Active,</hi> ſo that they come away more Freely, and with leſs Violence.</p>
+                     <p>Therefore, when you take <hi>Phyſick,</hi> always obſerve to take it in one of the Hours of <hi>Venus</hi> or <hi>Luna,</hi> (<hi>Mercury</hi> may do well ſometimes) either of which will afford you its Hour once in ſeven, either in Morning, or in Afternoon, as you may perceive by Thoſe former Rules.</p>
+                     <p>Therefore be careful to Underſtand them well, and then you will find both a Great Benefit and Content in ſo doing; and as well in other matters as in <hi>Phyſick</hi> (as occaſion may fall out.)</p>
+                     <p>The Wiſe Man tells us, <hi>Eccleſiaſtes</hi> 3. v. 1, 2, 3, 4, 5. <hi>&amp;c. There is a Time for All Things under the Sun.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="26" facs="tcp:153249:17"/>
+                     <head>
+                        <hi>An</hi> Advertiſement <hi>for the Satisfaction of thoſe who may think this is Odd or Strange, that</hi> Muſick <hi>is here join'd with</hi> Phyſick <hi>in this Work.</hi>
+                     </head>
+                     <opener>
+                        <salute>READER,</salute>
+                     </opener>
+                     <p>I Am not Ignorant How, That (through <hi>Ignorance,</hi> or <hi>Worſe,</hi> viz. <hi>En<g ref="char:EOLhyphen"/>vy, &amp;c.</hi> This <hi>Work of Mine</hi> (Eſpecially <hi>This Latter Part</hi> (or <hi>Concluſi<g ref="char:EOLhyphen"/>on</hi> by <hi>Muſick</hi>) lies liable to the <hi>Raſh Cenſures</hi> of ſeveral ſorts of <hi>Short-ſighted People,</hi> which may Meet it.</p>
+                     <p>And methinks I See, and Hear, ſome of them Frumpingly Laugh, and ſay, <hi>What! Conclude a Serious Phyſical Book with a Song?</hi> This is a Piece of Strange Impertinency, <hi>&amp;c.</hi> Or, <hi>Nothing to the Purpoſe as to Matter in Hand,</hi> &amp;c. Therefore to Rectifie the miſtake of all ſuch, I will here inform them of ſuch their <hi>Groſs Ignorance</hi> in <hi>That Particular,</hi> and let them Plainly See, the Great Affinity and Likeneſs, that is betwixt <hi>Phyſick</hi> and <hi>Muſick,</hi> they both being Properly and Suitably alike, as to the <hi>Health</hi> and <hi>Well-being</hi> of the <hi>Man,</hi> both in <hi>Body</hi> and <hi>Mind,</hi> (both which make the Compleat <hi>Man;</hi>) for as the Body without the Mind is <hi>No Man,</hi> but a Dead Lump only, ſo the Mind without the Body is <hi>No Man,</hi> but a living <hi>Spirit</hi> only. So that as <hi>Phyſick</hi> is Properly Adapted for the Groſer and Lower part of <hi>Man,</hi> (the Body,) ſo likewiſe is <hi>Muſick,</hi> as properly deſign'd for (the Purer and more ſublime Part of Man, (the <hi>Mind;</hi>) therefore it may be Properly ſaid, that <hi>Phyſick</hi> is <hi>Muſick,</hi> and <hi>Muſick</hi> is <hi>Phyſick.</hi> The which may run in a Handſome Proverb, Thus, <hi>viz.</hi>
+                     </p>
+                     <q>
+                        <l>As Phyſick is Muſick to the Body me find,</l>
+                        <l>So Muſick is Phyſick to a Sick Temper'd Mind.</l>
+                     </q>
+                     <p>The Proof of This, will be clearly Manifeſt, both from Scripture and from Hiſtory; I'll here Inſtance in Two Uncontroublable Great Examples, The One from <hi>Scripture,</hi> viz. <hi>David</hi>'s Curing <hi>Saul</hi>'s Diſtemper'd <hi>Sick-Mind</hi> by <hi>Muſick</hi> Only.</p>
+                     <p>The Other from Unqueſtionable Hiſtory, <hi>viz.</hi> Concerning The Strange Diſeaſe of <hi>The Terrantula,</hi> which all Learn'd <hi>Phyſicians</hi> know, is a <hi>Poiſon</hi> of a certain little Creature coming from its Teeth or Sting (like That of a Waſp, <hi>&amp;c.</hi>) ſo that whoſoever receives That <hi>Poiſon,</hi> ſoon after, falls into a Violent Fit of <hi>Diſtracted Madneſs;</hi> no Cure could ever be found out for it, <hi>But Muſick</hi> only, and That Perfectly Cures them.</p>
+                     <p>Now, theſe being ſuch Realities, and Uncontroulable Truths, What will my Inconſiderate <hi>Frumper</hi> ſay, or do for himſelf, for <hi>Laughing,</hi> &amp;c. at he knows not What? I'll tell Him what he ſhall do, and by Doing it, It may poſſibly chance to <hi>Do him Good.</hi> My Advice therefore is This, <hi>viz.</hi> Let Him go Learn to Conſtrue <hi>That Old True Latin Sentence,</hi> or Proverb, which is, This, <hi>Per Riſum Multum, Poſſis Cognoſcere Stultum,</hi> and when he has well Learn'd to <hi>Conſtrue</hi> It, let him Learn to Underſtand the <hi>True Meaning and Intent of It,</hi> &amp;c. (But enough of This.)</p>
+                     <p>I'll now return Back to <hi>Muſick</hi> and <hi>Phyſick,</hi> and let you ſtill further See, how very ſuitably They both Agree, in ſeveral Other <hi>Particulars.</hi> Alſo,</p>
+                     <p>
+                        <hi>Firſt,</hi> As to their very Names, Obſerve, How They <hi>Poetize</hi> (as twere) in <hi>Meetre,</hi> viz. <hi>Muſick, Phyſick.</hi>
+                     </p>
+                     <p>
+                        <pb n="27" facs="tcp:153249:17"/>
+                        <hi>Seconly,</hi> As to their Number of <hi>Sillables,</hi> viz. They are two a Piece.</p>
+                     <p>
+                        <hi>Thirdly,</hi> As to their Number of <hi>Letters,</hi> viz. They are ſix a Piece, (count them elſe,) 1, 2, 3, 4, 5, 6, &amp;c.</p>
+                     <p>Oh! Oh! ſaies the <hi>Critick,</hi> there are 7 in One, and but 6 in the Other; There you are <hi>Out Mr. Author;</hi> No, No, Mr. <hi>Crittick,</hi> 'tis <hi>You that are Out:</hi> Are you ſo <hi>
+                           <g ref="char:V">Ʋ</g>nlearned,</hi> as not to know, that <hi>H.</hi> is no <hi>Letter?</hi> And if ſo, Then their Number is Equal, as I have <hi>Affirm'd.</hi>
+                     </p>
+                     <p>Oh! Mr. <hi>Author,</hi> I crave your <hi>Pardon,</hi> I had forgot That; 'Tis true, Their Number is Equal, <hi>viz. Six</hi> and <hi>Six,</hi> Well! What then? Why then, I ſay, This with the Reſt ſhews how Neerly they are Allied One to the Other, even as <hi>Kindred</hi> or <hi>Breathren,</hi> yea, much rather <hi>Twins;</hi> ſo that All this Conſider'd. Tell me again, or give me ſome <hi>Reaſon,</hi> if you can, for your ſo <hi>Raſh</hi> caſting your <hi>F—s Bolt</hi> upon, or towards me, for joining them <hi>Thus Together,</hi> in This my Work, <hi>&amp;c.</hi> But I hope by This Time, you are ſo <hi>Modeſt,</hi> as to Acknowledge your <hi>Miſtake,</hi> and think it an <hi>Error</hi> in you. But, if for all this you cannot be brought to ſo much <hi>Ingenunity,</hi> I have yet two further more <hi>Reaſonable Reaſons</hi> to Anſwer, for what I have done, if there had been no <hi>Affinity</hi> or <hi>Likeneſs</hi> at all in their <hi>Natures</hi> and <hi>Properties.</hi>
+                     </p>
+                     <p>The <hi>Firſt</hi> is, that my Book Hitherto is a Continuation of <hi>Rarities, Riddles</hi> and <hi>Mervels,</hi> and this Song here Set (without any of the former Conſi<g ref="char:EOLhyphen"/>derations) is moſt properly ſuitable to the whole in That reſpect; for you ſhall find both <hi>Riddle, Mervile</hi> and <hi>Rarity:</hi> And therefore nothing at All impertinent to the whole Matter in Hand, but <hi>(E Contra)</hi> very Congruous and Suitable.</p>
+                     <p>My <hi>Second</hi> Ultimate and moſt Principle <hi>Reaſon</hi> is. I Publiſh it as my <hi>Thanksgiving to The Almighty Goodneſs</hi> in that it has pleas'd Him to make me ſo Happy, as I have been, by Receiving ſo Great a <hi>Bleſſing</hi> in the find<g ref="char:EOLhyphen"/>ing out of <hi>This Rich and long Hidden Secret,</hi> Equivolent to the <hi>Philoſopher Stone.</hi> As alſo, in That I my ſelf have Receiv'd ſeveral Ineſtimable Be<g ref="char:EOLhyphen"/>nefits as to my <hi>Health</hi> and <hi>Well-being</hi> Thereby; I therefore Account it a <hi>Juſt Debt and Duty,</hi> to His Infinite Goodneſs, to return Him the Higheſt Praiſes and Thanskgiving, <hi>I am Capable to do;</hi> and therefore, This very Cannon alſo being an other ſignal <hi>Token</hi> of <hi>His Peculiar Favour</hi> unto me, I think it moſt <hi>Properly Fit,</hi> to Return it again as my Duty, and moſt <hi>Sincere Thankfulneſs,</hi> &amp;c. by It, It being <hi>The Beſt</hi> I have, and far beyond all (in its kind) that ever I was <hi>Poſſeſſor</hi> of. And Now, Mr. <hi>Critt.</hi> I hope you will be Satisfi'd, and Scoff no more at me, for this my Seeming <hi>Imperti<g ref="char:EOLhyphen"/>nence;</hi> But rather Endeavour (if you want Skill in <hi>That Divine Art</hi>) to enable your Self to Bear a Part in ſo Needful a Work.</p>
+                  </div>
+                  <div type="section">
+                     <head>The Author's Advice.</head>
+                     <p>BE Wiſe, and Truſt not thy Precious Life in the Hands of Thou know<g ref="char:EOLhyphen"/>eſt not <hi>Who,</hi> and muſt be us'd Thou knoweſt no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>How,</hi> and may'ſt be Cur'd Thou know'ſt not <hi>When,</hi> but Thou muſt Pay Thou know'ſt not <hi>What;</hi> and at the Long-run, make Thy ſad <hi>Exit,</hi> and leave Thy Execu<g ref="char:EOLhyphen"/>tors to Pay the <hi>Long Long</hi> Bill of Charge, as 'tis too ſadly ſeen by Moſt, when They are Giving up the Ghoſt, who thought Themſelves ſo very Wiſe, but find it now far otherwiſe when 'tis too Late.</p>
+                  </div>
+                  <div type="section">
+                     <pb facs="tcp:153249:18"/>
+                     <lg>
+                        <l>A Muſical Canon, of 4 Parts in One, in the Uniſon,</l>
+                        <l>Not made by <hi>Man</hi> nor ever <hi>Thought</hi> upon,</l>
+                        <l>Yet <hi>Real Truth</hi> it is; Come Riddle me Riddle me this.</l>
+                     </lg>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <l>To Thee, O on-ly One-neſs, be Glory, Honour and Praiſe</l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <l>in E—ter—ni—ty. To Thee,</l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <l>
+                        <hi>HA—le—lu-jah,</hi>
+                     </l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <l>
+                        <hi>TI—bi O Unus Solus U-nitas, Sit Glori—a et Honor et Laus</hi>
+                     </l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <l>
+                        <hi>in E—ter-ni-ta-te. Ti—bi O Unus,</hi>
+                     </l>
+                     <l>
+                        <hi>HA—le—lu-jah,</hi> As Before,</l>
+                     <lg>
+                        <l>Thus as with <hi>Ridd'l</hi> and <hi>Rarity</hi> my Book Begun,</l>
+                        <l>So here with <hi>Ridd'l</hi> and <hi>Rarity</hi> it is now Done.</l>
+                        <l>
+                           <hi>Vale, Valetudine Eſto.</hi>
+                        </l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <pb facs="tcp:153249:18" rendition="simple:additions"/>
+            <head>The WORLD by LYES hath been ſo much Deceiv'd, That TR<g ref="char:V">Ʋ</g>TH when told can ſcarcely be Believ'd.</head>
+            <p>However, Here it is, Declaring <hi>The</hi> ENGLISH PRIESTS POWDER, <hi>One of the Great Wonders in NAT<g ref="char:V">Ʋ</g>RE, And the higheſt Excellency found out in the whole World; as will plainly ap<g ref="char:EOLhyphen"/>pear by theſe</hi> 4 <hi>Properties, Certainly known to be in it.</hi>
+            </p>
+            <p>FIrſt, It is <hi>Phyſical;</hi> 2ly. <hi>Chirurgical;</hi> 3ly. <hi>
+                  <g ref="char:V">Ʋ</g>niverſal;</hi> 4ly. <hi>Magnetical</hi> or <hi>Perpetual.</hi> 1ſt. As it is <hi>Phyſical,</hi> it will (Internally) give <hi>Vomit,</hi> or <hi>Purge, Clyſter, Sweat, Work by <g ref="char:V">Ʋ</g>rine</hi> againſt the <hi>Stone</hi> or <hi>Gravel;</hi> and otherwiſe ſecretly Operate, to the great benefit of Nature.</p>
+            <p n="2">2ly. As It is <hi>Chirurgical;</hi> it will (Externally) heal any <hi>Wounds, Cuts, Bruiſes, Scabs, Cankers, Putrifi'd Sores, Swellings: Eaſe Pains in the Head, Body, Joints, or any other part;</hi> And an <hi>Admirable Remedy</hi> for <hi>Rheumatick Sore Eyes.</hi>
+            </p>
+            <p n="3">3ly. As it is <hi>
+                  <g ref="char:V">Ʋ</g>niverſal,</hi> it is a <hi>great Cleanſer,</hi> and a <hi>Purifier of the whole Body and Blood;</hi> expelling all <hi>Poyſonous, Venemous</hi> and <hi>Corrupt Humours,</hi> ſo throughly, that no <hi>Diſeaſe</hi> can ſay hold, or remain long, where <hi>This Virtue is rightly us'd,</hi> Provided it be taken in Time; For it prevents, &amp; Cures the <hi>Plague</hi> it ſelf, the <hi>Pox, French-Pox, Running of the Reins, Kings Evil, Conſumptions, Convultions, Frenſy, Madneſs, Appoplexy, Pleureſie, Lethargy, Spleen, Dropſy, Sciatica, Bloody-Flux, Whites, Green-Sickneſs, Feavers,</hi> and <hi>Agues</hi> of all ſorts, <hi>&amp;c.</hi> and ſo down to any <hi>Ordinary</hi> or <hi>Common Diſeaſe</hi> or <hi>Diſtemper;</hi> For by its <hi>Purifying</hi> or <hi>Cleanſing Faculty,</hi> it does all Theſe Things, and very many more.</p>
+            <p n="4">4ly. <q>As it is <hi>Magnetical,</hi> It <hi>always keeps its VIRT<g ref="char:V">Ʋ</g>ES;</hi> For ſo faſt as it gives forth, ſo faſt it <hi>Attracts, Renews,</hi> or <hi>draws in again, the Influential Virtues of the Almighty;</hi> (the <hi>Load-ſtone</hi> does the like, which is wonderful.) So that when you have once purchaſed <hi>This Rare Thing,</hi> you have a <hi>Perpetual Store</hi> for your <hi>Self,</hi> your <hi>Family,</hi> your <hi>Friends,</hi> your <hi>Poor Neighbours,</hi> and your <hi>Generations after you,</hi> with<g ref="char:EOLhyphen"/>out any further <hi>Coſt or Trouble;</hi>
+               </q> And you may be <hi>Charitable to any Poor Sick Body,</hi> and not give away the value of a <hi>Farthing</hi> at any Time: It is therefore the <hi>Moſt Cheap,</hi> (yet the moſt <hi>Valuable Medicine</hi> in the World;) Yea, and the <hi>Moſt Conveni<g ref="char:EOLhyphen"/>ent;</hi> For it is ever <hi>ready at hand,</hi> in time of the <hi>greateſt Extremity or Need;</hi> So that it is Neceſſary for every <hi>Houſholder</hi> (be he <hi>Rich or Poor,</hi>) to have it <hi>always by Him.</hi>
+            </p>
+            <p>A <hi>Quarter</hi> of an <hi>Ounce</hi> will ſerve the <hi>ordinary <g ref="char:V">Ʋ</g>ſe</hi> of any <hi>One Perſon,</hi> the whole <hi>Time of his Life; Half an Ounce for a Family of</hi> 2, 3, <hi>or</hi> 4. And <hi>an Ounce for</hi> 4, 5, <hi>or</hi> 6. and ſo in proportion for <hi>Greater.</hi>
+            </p>
+            <p>
+               <hi>The Common Price is but double the weight of</hi> Silver; <hi>and the Cheapeſt thing on earth</hi>
+            </p>
+            <p>Communicated for a <hi>Publick Good;</hi> But eſpecially directed to Thoſe who live far from Good and Worthy <hi>Phyſicians,</hi> or cannot go to the Coſt of their <hi>Phyſicks;</hi> by reaſon of which, many Thouſands live in <hi>Miſery, Languiſh,</hi> and <hi>Die, for Want of. That, which Here, they may obtain even for a Trifle.</hi>
+            </p>
+            <p>To prevent all <hi>Frauds;</hi> Know, It is to be ſold (at preſent) in <hi>London,</hi> only by Mr. <hi>R. White,</hi> at the <hi>Black Reven</hi> in <hi>Coleman-ſtreet,</hi> and Mr. <hi>T. Cole</hi> in <hi>Holbourn,</hi> over againſt <hi>Fotter lane,</hi> Inſtrument maker; where will be Papers of <hi>Ounce, Half-Ounce</hi> and <hi>Quarter Ounce,</hi> Sealed up with the Authors own <hi>Coat of Arms,</hi> (viz.) <hi>An Arm'd <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <pb facs="tcp:153249:19" rendition="simple:additions"/>
+            <pb facs="tcp:153249:19"/>
+            <pb facs="tcp:153249:20"/>
+            <pb facs="tcp:153249:20" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
